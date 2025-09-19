@@ -1,0 +1,237 @@
+2025-09-19 13:08:17,523 - INFO - ====== WebDriver manager ======
+2025-09-19 13:08:17,841 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 13:08:17,943 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 13:08:18,026 - INFO - Driver [/Users/andre/.wdm/drivers/chromedriver/mac64/140.0.7339.185/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-19 13:08:19,379 - INFO - WebDriver configurado com sucesso
+2025-09-19 13:08:19,385 - INFO - Iniciando processamento de 5 documentos
+2025-09-19 13:08:19,387 - INFO - Processando 1/5: Resolucao BCB 501.0
+2025-09-19 13:08:19,387 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=501
+2025-09-19 13:08:26,698 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_501.0_11_9_2025.txt
+2025-09-19 13:08:30,015 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_501.0_11_9_2025.pdf
+2025-09-19 13:08:30,017 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 501.0
+2025-09-19 13:08:32,031 - INFO - Processando 2/5: Resolucao BCB 498.0
+2025-09-19 13:08:32,032 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=498
+2025-09-19 13:08:38,541 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_498.0_5_9_2025.txt
+2025-09-19 13:08:40,815 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_498.0_5_9_2025.pdf
+2025-09-19 13:08:40,817 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 498.0
+2025-09-19 13:08:42,835 - INFO - Processando 3/5: Instrucao Normativa BCB 596.0
+2025-09-19 13:08:42,835 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=596
+2025-09-19 13:08:48,896 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_596.0_24_3_2025.txt
+2025-09-19 13:08:50,888 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_596.0_24_3_2025.pdf
+2025-09-19 13:08:50,889 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 596.0
+2025-09-19 13:08:52,907 - INFO - Processando 4/5: Instrucao Normativa BCB 585.0
+2025-09-19 13:08:52,907 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=585
+2025-09-19 13:08:59,260 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_585.0_29_1_2025.txt
+2025-09-19 13:09:02,637 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_585.0_29_1_2025.pdf
+2025-09-19 13:09:02,639 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 585.0
+2025-09-19 13:09:04,661 - INFO - Processando 5/5: Resolucao BCB 450.0
+2025-09-19 13:09:04,661 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=450
+2025-09-19 13:09:11,333 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_450.0_15_1_2025.txt
+2025-09-19 13:09:13,869 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_450.0_15_1_2025.pdf
+2025-09-19 13:09:13,873 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 450.0
+2025-09-19 13:09:15,884 - INFO - Processamento concluído. Sucessos: 5, Falhas: 0
+2025-09-19 13:09:15,991 - INFO - WebDriver fechado
+2025-09-19 13:18:05,225 - INFO - ====== WebDriver manager ======
+2025-09-19 13:18:06,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 13:18:06,489 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 13:18:06,547 - INFO - Driver [/Users/andre/.wdm/drivers/chromedriver/mac64/140.0.7339.185/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-19 13:18:08,462 - INFO - WebDriver configurado com sucesso
+2025-09-19 13:18:08,472 - INFO - Iniciando processamento de 5 documentos
+2025-09-19 13:18:08,474 - INFO - Processando 1/5: Resolucao BCB 501.0
+2025-09-19 13:18:08,474 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=501
+2025-09-19 13:18:15,362 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_501.0_11_9_2025.txt
+2025-09-19 13:18:17,307 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_501.0_11_9_2025.pdf
+2025-09-19 13:18:17,310 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 501.0
+2025-09-19 13:18:19,316 - INFO - Processando 2/5: Resolucao BCB 498.0
+2025-09-19 13:18:19,317 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=498
+2025-09-19 13:18:25,461 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_498.0_5_9_2025.txt
+2025-09-19 13:18:27,996 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_498.0_5_9_2025.pdf
+2025-09-19 13:18:28,002 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 498.0
+2025-09-19 13:18:30,023 - INFO - Processando 3/5: Instrucao Normativa BCB 596.0
+2025-09-19 13:18:30,023 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=596
+2025-09-19 13:18:36,308 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_596.0_24_3_2025.txt
+2025-09-19 13:18:39,472 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_596.0_24_3_2025.pdf
+2025-09-19 13:18:39,475 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 596.0
+2025-09-19 13:18:41,492 - INFO - Processando 4/5: Instrucao Normativa BCB 585.0
+2025-09-19 13:18:41,492 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=585
+2025-09-19 13:18:47,788 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_585.0_29_1_2025.txt
+2025-09-19 13:18:53,888 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_585.0_29_1_2025.pdf
+2025-09-19 13:18:53,891 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 585.0
+2025-09-19 13:18:55,905 - INFO - Processando 5/5: Resolucao BCB 450.0
+2025-09-19 13:18:55,905 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=450
+2025-09-19 13:19:03,114 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_450.0_15_1_2025.txt
+2025-09-19 13:19:06,215 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_450.0_15_1_2025.pdf
+2025-09-19 13:19:06,217 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 450.0
+2025-09-19 13:19:08,224 - INFO - Processamento concluído. Sucessos: 5, Falhas: 0
+2025-09-19 13:19:08,351 - INFO - WebDriver fechado
+2025-09-19 13:24:36,252 - INFO - ====== WebDriver manager ======
+2025-09-19 13:24:37,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 13:24:37,274 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 13:24:37,337 - INFO - Driver [/Users/andre/.wdm/drivers/chromedriver/mac64/140.0.7339.185/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-19 13:24:39,029 - INFO - WebDriver configurado com sucesso
+2025-09-19 13:24:39,038 - INFO - Iniciando processamento de 33 documentos
+2025-09-19 13:24:39,040 - INFO - Processando 1/33: Resolucao BCB 501.0
+2025-09-19 13:24:39,040 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=501
+2025-09-19 13:24:45,798 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_501.0_11_9_2025.txt
+2025-09-19 13:24:47,822 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_501.0_11_9_2025.pdf
+2025-09-19 13:24:47,825 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 501.0
+2025-09-19 13:24:49,839 - INFO - Processando 2/33: Resolucao BCB 498.0
+2025-09-19 13:24:49,840 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=498
+2025-09-19 13:24:55,734 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_498.0_5_9_2025.txt
+2025-09-19 13:24:57,346 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_498.0_5_9_2025.pdf
+2025-09-19 13:24:57,348 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 498.0
+2025-09-19 13:24:59,364 - INFO - Processando 3/33: Instrucao Normativa BCB 596.0
+2025-09-19 13:24:59,364 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=596
+2025-09-19 13:25:05,892 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_596.0_24_3_2025.txt
+2025-09-19 13:25:07,586 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_596.0_24_3_2025.pdf
+2025-09-19 13:25:07,588 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 596.0
+2025-09-19 13:25:09,606 - INFO - Processando 4/33: Instrucao Normativa BCB 585.0
+2025-09-19 13:25:09,606 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=585
+2025-09-19 13:25:15,903 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_585.0_29_1_2025.txt
+2025-09-19 13:25:17,651 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_585.0_29_1_2025.pdf
+2025-09-19 13:25:17,653 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 585.0
+2025-09-19 13:25:19,672 - INFO - Processando 5/33: Resolucao BCB 450.0
+2025-09-19 13:25:19,672 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=450
+2025-09-19 13:25:25,923 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_450.0_15_1_2025.txt
+2025-09-19 13:25:27,744 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_450.0_15_1_2025.pdf
+2025-09-19 13:25:27,746 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 450.0
+2025-09-19 13:25:29,750 - INFO - Processando 6/33: Resolucao BCB 440.0
+2025-09-19 13:25:29,750 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=440
+2025-09-19 13:25:36,016 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_440.0_28_11_2024.txt
+2025-09-19 13:25:37,935 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_440.0_28_11_2024.pdf
+2025-09-19 13:25:37,938 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 440.0
+2025-09-19 13:25:39,953 - INFO - Processando 7/33: Resolucao CMN 5.187
+2025-09-19 13:25:39,953 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5.187
+2025-09-19 13:25:46,147 - INFO - Conteúdo salvo: normativos_txt/Resolucao_CMN_5.187_28_11_2024.txt
+2025-09-19 13:25:51,171 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_CMN_5.187_28_11_2024.pdf
+2025-09-19 13:25:51,174 - INFO - ✓ Documento processado com sucesso: Resolucao CMN 5.187
+2025-09-19 13:25:53,192 - INFO - Processando 8/33: Resolucao BCB 429.0
+2025-09-19 13:25:53,193 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=429
+2025-09-19 13:26:00,519 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_429.0_11_11_2024.txt
+2025-09-19 13:26:02,401 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_429.0_11_11_2024.pdf
+2025-09-19 13:26:02,404 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 429.0
+2025-09-19 13:26:04,414 - INFO - Processando 9/33: Resolucao BCB 315.0
+2025-09-19 13:26:04,415 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=315
+2025-09-19 13:26:10,687 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_315.0_27_4_2023.txt
+2025-09-19 13:26:13,432 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_315.0_27_4_2023.pdf
+2025-09-19 13:26:13,435 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 315.0
+2025-09-19 13:26:15,455 - INFO - Processando 10/33: Instrucao Normativa BCB 374.0
+2025-09-19 13:26:15,455 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=374
+2025-09-19 13:26:22,140 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_374.0_26_4_2023.txt
+2025-09-19 13:26:24,215 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_374.0_26_4_2023.pdf
+2025-09-19 13:26:24,217 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 374.0
+2025-09-19 13:26:26,230 - INFO - Processando 11/33: Resolucao CMN 5.069
+2025-09-19 13:26:26,231 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5.069
+2025-09-19 13:26:32,346 - INFO - Conteúdo salvo: normativos_txt/Resolucao_CMN_5.069_20_4_2023.txt
+2025-09-19 13:26:36,633 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_CMN_5.069_20_4_2023.pdf
+2025-09-19 13:26:36,636 - INFO - ✓ Documento processado com sucesso: Resolucao CMN 5.069
+2025-09-19 13:26:38,647 - INFO - Processando 12/33: Resolucao BCB 289.0
+2025-09-19 13:26:38,647 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=289
+2025-09-19 13:26:44,653 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_289.0_25_1_2023.txt
+2025-09-19 13:26:50,171 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_289.0_25_1_2023.pdf
+2025-09-19 13:26:50,185 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 289.0
+2025-09-19 13:26:52,201 - INFO - Processando 13/33: Resolucao BCB 277.0
+2025-09-19 13:26:52,201 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=277
+2025-09-19 13:26:59,317 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_277.0_31_12_2022.txt
+2025-09-19 13:27:02,174 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_277.0_31_12_2022.pdf
+2025-09-19 13:27:02,175 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 277.0
+2025-09-19 13:27:04,186 - INFO - Processando 14/33: Resolucao BCB 264.0
+2025-09-19 13:27:04,187 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=264
+2025-09-19 13:27:10,550 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_264.0_25_11_2022.txt
+2025-09-19 13:27:15,484 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_264.0_25_11_2022.pdf
+2025-09-19 13:27:15,488 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 264.0
+2025-09-19 13:27:17,505 - INFO - Processando 15/33: Instrucao Normativa BCB 317.0
+2025-09-19 13:27:17,506 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=317
+2025-09-19 13:27:24,118 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_317.0_4_11_2022.txt
+2025-09-19 13:27:25,970 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_317.0_4_11_2022.pdf
+2025-09-19 13:27:25,973 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 317.0
+2025-09-19 13:27:27,991 - INFO - Processando 16/33: Instrucao Normativa BCB 307.0
+2025-09-19 13:27:27,993 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=307
+2025-09-19 13:27:34,368 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_307.0_21_9_2022.txt
+2025-09-19 13:27:36,144 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_307.0_21_9_2022.pdf
+2025-09-19 13:27:36,146 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 307.0
+2025-09-19 13:27:38,283 - INFO - Processando 17/33: Resolucao BCB 237.0
+2025-09-19 13:27:38,284 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=237
+2025-09-19 13:27:44,713 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_237.0_24_8_2022.txt
+2025-09-19 13:27:48,808 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_237.0_24_8_2022.pdf
+2025-09-19 13:27:48,814 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 237.0
+2025-09-19 13:27:50,829 - INFO - Processando 18/33: Instrucao Normativa BCB 247.0
+2025-09-19 13:27:50,829 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=247
+2025-09-19 13:27:56,746 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_247.0_24_3_2022.txt
+2025-09-19 13:27:58,907 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_247.0_24_3_2022.pdf
+2025-09-19 13:27:58,908 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 247.0
+2025-09-19 13:28:00,930 - INFO - Processando 19/33: Resolucao BCB 195.0
+2025-09-19 13:28:00,931 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=195
+2025-09-19 13:28:07,206 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_195.0_3_3_2022.txt
+2025-09-19 13:28:24,211 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_195.0_3_3_2022.pdf
+2025-09-19 13:28:24,215 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 195.0
+2025-09-19 13:28:26,249 - INFO - Processando 20/33: Instrucao Normativa BCB 234.0
+2025-09-19 13:28:26,249 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=234
+2025-09-19 13:28:32,714 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_234.0_15_2_2022.txt
+2025-09-19 13:28:36,280 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_234.0_15_2_2022.pdf
+2025-09-19 13:28:36,285 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 234.0
+2025-09-19 13:28:38,301 - INFO - Processando 21/33: Instrucao Normativa BCB 199.0
+2025-09-19 13:28:38,301 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=199
+2025-09-19 13:28:44,457 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_199.0_9_12_2021.txt
+2025-09-19 13:28:48,160 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_199.0_9_12_2021.pdf
+2025-09-19 13:28:48,163 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 199.0
+2025-09-19 13:28:50,180 - INFO - Processando 22/33: Resolucao BCB 150.0
+2025-09-19 13:28:50,180 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=150
+2025-09-19 13:28:57,062 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_150.0_6_10_2021.txt
+2025-09-19 13:28:59,663 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_150.0_6_10_2021.pdf
+2025-09-19 13:28:59,664 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 150.0
+2025-09-19 13:29:01,681 - INFO - Processando 23/33: Resolucao CMN 4.951
+2025-09-19 13:29:01,681 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4.951
+2025-09-19 13:29:07,926 - INFO - Conteúdo salvo: normativos_txt/Resolucao_CMN_4.951_30_9_2021.txt
+2025-09-19 13:29:11,874 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_CMN_4.951_30_9_2021.pdf
+2025-09-19 13:29:11,877 - INFO - ✓ Documento processado com sucesso: Resolucao CMN 4.951
+2025-09-19 13:29:13,897 - INFO - Processando 24/33: Resolucao BCB 142.0
+2025-09-19 13:29:13,898 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=142
+2025-09-19 13:29:20,244 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_142.0_23_9_2021.txt
+2025-09-19 13:29:26,030 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_142.0_23_9_2021.pdf
+2025-09-19 13:29:26,033 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 142.0
+2025-09-19 13:29:28,054 - INFO - Processando 25/33: Resolucao BCB 105.0
+2025-09-19 13:29:28,055 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=105
+2025-09-19 13:29:33,837 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_105.0_9_6_2021.txt
+2025-09-19 13:29:40,044 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_105.0_9_6_2021.pdf
+2025-09-19 13:29:40,046 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 105.0
+2025-09-19 13:29:42,054 - INFO - Processando 26/33: Instrucao Normativa BCB 32.0
+2025-09-19 13:29:42,054 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=32
+2025-09-19 13:29:48,420 - INFO - Conteúdo salvo: normativos_txt/Instrucao_Normativa_BCB_32.0_26_10_2020.txt
+2025-09-19 13:29:53,984 - INFO - PDF baixado: normativos_txt/normativos_pdf/Instrucao_Normativa_BCB_32.0_26_10_2020.pdf
+2025-09-19 13:29:53,986 - INFO - ✓ Documento processado com sucesso: Instrucao Normativa BCB 32.0
+2025-09-19 13:29:55,990 - INFO - Processando 27/33: Resolucao BCB 19.0
+2025-09-19 13:29:55,990 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=19
+2025-09-19 13:30:02,117 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_19.0_1_10_2020.txt
+2025-09-19 13:30:05,967 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_19.0_1_10_2020.pdf
+2025-09-19 13:30:05,974 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 19.0
+2025-09-19 13:30:07,995 - INFO - Processando 28/33: Resolucao BCB 1.0
+2025-09-19 13:30:07,996 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=1
+2025-09-19 13:30:14,975 - INFO - Conteúdo salvo: normativos_txt/Resolucao_BCB_1.0_12_8_2020.txt
+2025-09-19 13:30:17,615 - INFO - PDF baixado: normativos_txt/normativos_pdf/Resolucao_BCB_1.0_12_8_2020.pdf
+2025-09-19 13:30:17,619 - INFO - ✓ Documento processado com sucesso: Resolucao BCB 1.0
+2025-09-19 13:30:19,635 - INFO - Processando 29/33: Resolucao CMN 4.734
+2025-09-19 13:30:19,635 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4.734
+2025-09-19 13:30:25,899 - WARNING - Conteúdo vazio para Resolucao CMN 4.734
+2025-09-19 13:30:25,899 - ERROR - ✗ Falha ao extrair conteúdo: Resolucao CMN 4.734
+2025-09-19 13:30:27,905 - INFO - Processando 30/33: Circular 3.705
+2025-09-19 13:30:27,906 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3.705
+2025-09-19 13:30:33,787 - INFO - Conteúdo salvo: normativos_txt/Circular_3.705_24_4_2014.txt
+2025-09-19 13:30:36,431 - INFO - PDF baixado: normativos_txt/normativos_pdf/Circular_3.705_24_4_2014.pdf
+2025-09-19 13:30:36,433 - INFO - ✓ Documento processado com sucesso: Circular 3.705
+2025-09-19 13:30:38,441 - INFO - Processando 31/33: Resolucao CMN 4.282
+2025-09-19 13:30:38,441 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4.282
+2025-09-19 13:30:44,479 - WARNING - Conteúdo vazio para Resolucao CMN 4.282
+2025-09-19 13:30:44,480 - ERROR - ✗ Falha ao extrair conteúdo: Resolucao CMN 4.282
+2025-09-19 13:30:46,489 - INFO - Processando 32/33: Circular 3.682
+2025-09-19 13:30:46,490 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3.682
+2025-09-19 13:30:52,812 - INFO - Conteúdo salvo: normativos_txt/Circular_3.682_4_11_2013.txt
+2025-09-19 13:30:54,848 - INFO - PDF baixado: normativos_txt/normativos_pdf/Circular_3.682_4_11_2013.pdf
+2025-09-19 13:30:54,851 - INFO - ✓ Documento processado com sucesso: Circular 3.682
+2025-09-19 13:30:56,864 - INFO - Processando 33/33: Circular 3.681
+2025-09-19 13:30:56,865 - INFO - Acessando documento: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3.681
+2025-09-19 13:31:02,864 - INFO - Conteúdo salvo: normativos_txt/Circular_3.681_4_11_2013.txt
+2025-09-19 13:31:07,542 - INFO - PDF baixado: normativos_txt/normativos_pdf/Circular_3.681_4_11_2013.pdf
+2025-09-19 13:31:07,544 - INFO - ✓ Documento processado com sucesso: Circular 3.681
+2025-09-19 13:31:09,550 - INFO - Processamento concluído. Sucessos: 31, Falhas: 2
+2025-09-19 13:31:09,705 - INFO - WebDriver fechado

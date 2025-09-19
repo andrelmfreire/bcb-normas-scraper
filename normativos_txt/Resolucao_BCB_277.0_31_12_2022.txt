@@ -1,0 +1,1768 @@
+Tipo: Resolucao BCB
+Número: 277.0
+Data: 31/12/2022
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=277
+================================================================================
+
+Resolução BCB n° 277 de 31/12/2022
+Imprimir
+Selecione outra versão do normativo
+Versão vigente
+Versão vigente compilada
+Versão 3
+Versão 3 compilada
+Versão 2
+Versão 2 compilada
+Versão original
+Versão vigente, atualizada em 4/10/2024
+RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+Regulamenta a Lei nº 14.286, de 29 de dezembro de 2021, em relação ao mercado de câmbio e ao ingresso no País e à saída do País de valores em reais e em moeda estrangeira, e dá outras providências.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão extraordinária realizada nos dias 30 e 31 de dezembro de 2022, com base no art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, no art. 2º, no art. 3º, no art. 4º, §§ 1º e 2º, no art. 5º, incisos I, II, VIII e IX, e §§ 1º e 4º, no art. 6º, no art. 10, no art. 14, § 2º, no art. 15 e no art. 18 da Lei nº 14.286, de 29 de dezembro de 2021, e no art. 2º da Resolução CMN nº 5.056, de 15 de dezembro de 2022, e tendo em vista a Resolução CMN nº 5.042, de 25 de novembro de 2022,
+R E S O L V E :
+TÍTULO I
+DISPOSIÇÕES GERAIS
+CAPÍTULO ÚNICO
+Art. 1º  Esta Resolução regulamenta a Lei nº 14.286, de 29 de dezembro de 2021, em relação aos aspectos de competência do Banco Central do Brasil referentes ao mercado de câmbio, que compreende:
+I - as compras e as vendas de moeda estrangeira;
+II - os pagamentos e as transferências internacionais realizados por meio de serviço de pagamento ou transferência internacional;
+III - as contas em reais de titularidade de não residentes;
+IV - as contas em moeda estrangeira mantidas no Brasil; e
+V - as operações com ouro-instrumento cambial.
+Art. 2º  É livre a forma de celebração de operação de câmbio.
+Parágrafo único.  No caso de operação com cliente, a instituição autorizada a operar no mercado de câmbio deve ser capaz de comprovar que as partes consentem com as condições pactuadas.
+Art. 3º  As informações mínimas que fazem parte da operação de câmbio estão no Anexo I a esta Resolução.
+Art. 4º  Para fins de classificação da finalidade da operação de câmbio, cuja responsabilidade é do cliente, a instituição autorizada a operar no mercado de câmbio deve apresentar ou tornar disponível ao cliente, em livre formato que permita o claro entendimento pelo cliente, os códigos constantes:
+I - no Anexo III para indicação da finalidade da operação de câmbio de até US$50.000,00 (cinquenta mil dólares dos Estados Unidos), ou seu equivalente em outras moedas, exceto operação de câmbio que necessite ser vinculada a operação de capital estrangeiro informada em sistema do Banco Central do Brasil;
+I - no Anexo III para indicação da finalidade da operação de câmbio de até US$50.000,00 (cinquenta mil dólares dos Estados Unidos), ou seu equivalente em outras moedas; (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+II - no Anexo IV para indicação da finalidade da operação de câmbio superior a US$50.000,00 (cinquenta mil dólares dos Estados Unidos), ou seu equivalente em outras moedas, ou da operação de câmbio que, independentemente de valor, necessite ser vinculada a operação de capital estrangeiro informada em sistema do Banco Central do Brasil;
+II - no Anexo IV para indicação da finalidade da operação de câmbio superior a US$50.000,00 (cinquenta mil dólares dos Estados Unidos), ou seu equivalente em outras moedas; (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+III - no Anexo V para a indicação da finalidade da operação de câmbio, independentemente de seu valor, relativa a serviço de transferências postais internacionais ou a serviço de transferência ou pagamento internacional (eFX).
+III - no Anexo V para a indicação da finalidade da operação de câmbio, independentemente de seu valor, relativa a serviço de transferências postais internacionais ou a serviço de pagamento ou transferência internacional (eFX). (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+§ 1º  Devem também ser prestadas as informações constantes do:
+I - Anexo VI, com a indicação efetuada pelo cliente, sobre o pagador ou recebedor no exterior e sua relação de vínculo com o cliente no caso das situações previstas nos incisos II e III do caput; e
+II - Anexo VII, com a indicação efetuada pela instituição autorizada a operar no mercado de câmbio, sobre a forma de entrega da moeda estrangeira.
+§ 2º  A pedido do cliente:
+I - é facultada a utilização da lista de códigos constante do Anexo IV para operação de câmbio de até US$50.000,00 (cinquenta mil dólares dos Estados Unidos), ou seu equivalente em outras moedas, mediante concordância da instituição autorizada a operar no mercado de câmbio;
+II - a instituição autorizada a operar no mercado de câmbio deve ajustar informação relativa à operação de câmbio já prestada pelo cliente.
+II - a instituição autorizada a operar no mercado de câmbio deve ajustar informação já prestada pelo cliente relativa à operação de câmbio. (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+§ 3º  As instituições autorizadas a operar no mercado de câmbio prestarão orientação e suporte técnico, inclusive por meio virtual, para os clientes que necessitarem de apoio para a correta classificação de finalidade da operação no mercado de câmbio.
+Art. 5º  A instituição autorizada a operar no mercado de câmbio deve utilizar as listas dos códigos constantes:
+I - nos Anexos IV, V, VI e VII para a classificação de operação de câmbio própria, com instituição no exterior, com o Banco Central do Brasil, com outra instituição autorizada a operar no mercado de câmbio, ou de operação especial;
+I - nos Anexos IV, V, VI e VII para a classificação de operação de câmbio própria, com instituição no exterior, com o Banco Central do Brasil, com outra instituição autorizada a operar no mercado de câmbio, ou de operação especial; e (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+II - no Anexo VIII para a classificação complementar, exclusivamente para envio ao Banco Central do Brasil; e
+II - no Anexo VIII para a classificação complementar, exclusivamente para envio ao Banco Central do Brasil. (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+III - no Anexo IX para a classificação do cliente no caso de operação de câmbio e no caso de movimentação de conta de não residente quando sujeita à prestação de informação de que trata o Anexo II.
+III - (Revogado, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+Art. 6º  Para a devolução de valores não aplicados na finalidade ou na forma originalmente indicada ou ainda para a devolução de valores indevidamente transferidos, deve ser utilizada a classificação correspondente à mesma finalidade indicada na operação original.
+Art. 7º  A instituição autorizada a operar no mercado de câmbio pode requisitar ou dispensar, conforme sua avaliação, informações e documentos comprobatórios, considerando a avaliação do cliente e as características da operação.
+Parágrafo único.  As disposições sobre os critérios a serem adotados em relação às informações e aos documentos comprobatórios para fins de prevenção à lavagem de dinheiro e de combate ao financiamento ao terrorismo estão na Circular nº 3.978, de 23 de janeiro de 2020.
+Art. 8º  A instituição autorizada a operar no mercado de câmbio deve manter à disposição do Banco Central do Brasil e conservar pelo período mínimo de dez anos, contados do término do exercício em que ocorra o evento de contratação, ou se houver, de liquidação, cancelamento ou baixa da operação de câmbio:
+I - a comprovação do consentimento do cliente às condições pactuadas;
+II - as informações sobre a operação e os documentos comprobatórios que tenham sido coletados.
+Art. 9º  As instituições autorizadas a operar no mercado de câmbio e os prestadores de serviço de pagamento ou transferência internacional devem cumprir a legislação e a regulamentação referente ao mercado de câmbio.
+Art. 10.  No caso de operação de câmbio realizada com a participação de correspondente no País, a instituição autorizada a operar no mercado de câmbio deve manter em seu poder a cópia da documentação de identificação do cliente.
+Art. 11.  Para efeitos desta Resolução, as referências à compra ou à venda de moeda estrangeira significam que a instituição autorizada a operar no mercado de câmbio é a compradora ou a vendedora, respectivamente.
+Art. 12.  O ingresso no País ou a saída do País de reais ou de moeda estrangeira em espécie superior a US$10.000,00 (dez mil dólares dos Estados Unidos), ou seu equivalente em outras moedas, seja em reais seja em moeda estrangeira, somente pode ser realizado por instituição autorizada a operar no mercado de câmbio com a participação de banco autorizado a operar no mercado de câmbio, ressalvada a situação relativa a porte de valores prevista no inciso II do § 1º do art. 14 da Lei nº 14.286, de 2021.
+Parágrafo único.  As instituições de pagamento autorizadas a operar no mercado de câmbio não podem realizar o ingresso e a saída de moeda de que trata o caput.
+Art. 13.  O pagamento ao exterior ou recebimento do exterior deve ser realizado por meio de instituição autorizada a operar no mercado de câmbio ou por outra forma prevista na legislação, devendo a instituição autorizada a operar no mercado de câmbio utilizar meio que assegure que a respectiva instrução de pagamento seja acompanhada das informações relativas ao remetente e ao beneficiário dos recursos.
+Parágrafo único.  No caso de remessa de recursos para o exterior, a respectiva instrução de pagamento deve ser acompanhada das seguintes informações:
+I - relativas ao remetente: nome, número do documento de identificação, endereço e identificador da conta ou número de inscrição no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ), no caso de pessoa obrigada de inscrição em referidos cadastros, e forma de entrega da moeda pelo remetente diferente de débito em conta;
+II - relativas ao beneficiário: nome e identificador da conta ou identificador único da transação.
+Art. 14.  Relativamente a ordens de pagamento em moeda estrangeira:
+I - a instituição autorizada a operar no mercado de câmbio deve comunicar imediatamente ao beneficiário o recebimento de ordem de pagamento oriunda do exterior a seu favor, informando-o de que a ordem pode ser negociada de forma integral ou parcelada;
+II - a ordem de pagamento não cumprida no exterior deve ser objeto de realização de operação de câmbio com o remetente da ordem, cabendo à instituição comunicar o fato ao referido remetente no prazo de até três dias úteis, contados a partir da data em que a instituição recebeu a informação do não cumprimento da ordem.
+Art. 15.  As operações de câmbio podem ser contratadas para liquidação pronta ou futura e, no caso de operações interbancárias, para liquidação a termo, observado que:
+I - nas operações para liquidação pronta ou futura, a taxa de câmbio deve refletir exclusivamente o preço da moeda negociada para a data da contratação da operação de câmbio, sendo facultada a pactuação de prêmio ou bonificação nas operações para liquidação futura;
+II - nas operações para liquidação a termo, a taxa de câmbio é livremente pactuada entre as partes e deve espelhar o preço negociado da moeda estrangeira para a data da liquidação da operação de câmbio.
+Art. 16.  Sujeita-se às penalidades e demais sanções previstas na legislação e regulamentação em vigor a compra ou a venda de moeda estrangeira a taxas que se situem em patamares destoantes daqueles praticados pelo mercado ou que possam configurar evasão cambial, formação artificial ou manipulação de preços.
+Art. 17.  Para fins da determinação da equivalência em dólares dos Estados Unidos das operações de câmbio cursadas em outras moedas estrangeiras deve ser utilizada a informação sobre taxas de câmbio mais recentemente disponível para a data do evento divulgada pelo Banco Central do Brasil.
+Art. 18.  O Valor Efetivo Total (VET), expresso em reais por unidade de moeda estrangeira, é calculado considerando a taxa de câmbio, os tributos que incidem sobre a operação de câmbio e as tarifas eventualmente cobradas.
+Parágrafo único.  Para as operações de câmbio com clientes para liquidação pronta de até US$100.000,00 (cem mil dólares dos Estados Unidos), ou o seu equivalente em outras moedas, as instituições autorizadas a operar no mercado de câmbio devem:
+I - informar o VET a seu cliente ou usuário previamente à realização da operação de câmbio;
+II - incluir o VET entre as informações constantes do Anexo I a esta Resolução que devem ser conhecidas pelas partes.
+Art. 19.  Na operação de compra ou de venda de moeda estrangeira, o recebimento ou entrega do seu contravalor em reais deve ser realizado a partir de crédito ou de débito à conta de depósito ou de pagamento do cliente mantida em instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil ou em instituições de pagamento que, em virtude de sua adesão ao Pix, integrem o Sistema de Pagamentos Brasileiro (SPB).
+§ 1º  O recebimento ou a entrega do contravalor em reais de que trata o caput pode ser realizado também por meio de cheque, na forma de sua regulamentação.
+§ 2º  A utilização de conta de pagamento pós-paga é limitada às operações de venda de moeda estrangeira.
+§ 3º  Quando não ultrapassar R$10.000,00 (dez mil reais), o recebimento ou a entrega do contravalor em reais de que trata o caput pode ser realizado por qualquer meio de pagamento em uso no mercado financeiro, inclusive em espécie, observado o § 2º.
+Art. 20.  A instituição autorizada a operar no mercado de câmbio, em seu relacionamento com prestador de serviços postais, conforme o art. 2º da Lei nº 6.538, de 22 de junho de 1978, deve ser capaz de comprovar para o Banco Central do Brasil que se certificou de que referido prestador:
+I - adota política, procedimentos e controles internos para cumprir os deveres e as obrigações previstos nesta Resolução, inclusive com vista a evitar a compensação entre os pagamentos de seu interesse; e
+II - realiza recebimentos e pagamentos para fins de prestação do serviço de vale postal internacional de até US$50.000,00 (cinquenta mil dólares dos Estados Unidos), ou o seu equivalente em outras moedas, referentes a negócios que não necessitem ser vinculados a operações de capitais estrangeiros informados em sistema do Banco Central do Brasil, com entrega de comprovante ao seu cliente contendo a identificação do cliente, do pagador ou recebedor no exterior, a finalidade do negócio, a moeda estrangeira, a taxa de conversão, os valores em moeda estrangeira e em moeda nacional, o valor referente a eventuais tarifas e o valor referente a eventuais tributos.
+Art. 21.  Para a operação de câmbio referente a pagamento ou a recebimento antecipado:
+I - no caso de pagamento antecipado, a instituição autorizada a operar no mercado de câmbio deve informar o cliente de que, caso não venha a se concretizar a operação que respaldou a transferência, o comprador da moeda estrangeira deve providenciar o retorno ao País dos recursos correspondentes;
+II - no caso de recebimento antecipado relativo a negócio não concretizado de acordo com a finalidade originalmente indicada, a instituição autorizada a operar no mercado de câmbio deve informar o cliente de que o valor pode ser devolvido para o exterior em até trezentos e sessenta dias ou, mediante anuência prévia do pagador no exterior, ser convertido para outra finalidade, observada a regulamentação tributária aplicável.
+Art. 22.  Não são admitidos fracionamentos de operações de câmbio para fins de utilização de prerrogativa concedida nos termos desta Resolução.
+Art. 23.  As instituições autorizadas a operar no mercado de câmbio podem converter entre si ou com instituições financeiras do exterior moeda estrangeira em espécie em moeda estrangeira escritural e moeda estrangeira escritural em moeda estrangeira em espécie.
+Art. 24.  A contratação de operação de câmbio e a movimentação em conta de não residente em reais sujeita à prestação de informações na forma do Anexo II relativas aos pagamentos ao exterior e aos recebimentos do exterior devem ser realizadas separadamente pelo total de valores que tenham a mesma finalidade informada.
+Art. 25.  Nas operações de câmbio ou nas movimentações em contas de não residentes em reais sujeitas à prestação de informações na forma do Anexo II, com liquidação ou com movimentação na mesma data, respectivamente, a realização dos negócios deve ser informada ao Banco Central do Brasil pelos valores integrais, podendo a movimentação dos recursos, do e para o exterior, ser efetuada pelo valor líquido.
+Art. 26.  É permitido às instituições autorizadas a operar no mercado de câmbio receber ordem de pagamento em moeda estrangeira para ingresso de recursos do exterior relacionados a transferências unilaterais, realizar a conversão para reais de tais valores e direcionar os recursos resultantes a pessoas naturais, observado nesses casos o seguinte:
+I - a sensibilização da posição de câmbio da instituição autorizada a operar no mercado de câmbio ocorre pelo registro no Sistema Câmbio de operação de compra para liquidação pronta, devendo ser observada classificação própria;
+II - a instituição autorizada a operar no mercado de câmbio, no tocante à entrega dos reais à pessoa natural destinatária final dos recursos, deve observar que:
+a) as condições da ordem de pagamento são pactuadas pelo remetente no exterior, incluindo o preestabelecimento do valor em reais a ser integralmente recebido pela pessoa natural destinatária final no Brasil;
+b) após o recebimento da ordem de pagamento em moeda estrangeira, a instituição autorizada a operar no mercado de câmbio deve entregar em até três dias úteis o valor em reais preestabelecido no exterior para a pessoa natural destinatária final, em espécie ou mediante crédito a conta de depósito ou de pagamento pré-paga da pessoa natural mantida em instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil ou em instituições de pagamento que, em virtude de sua adesão ao Pix, integrem o SPB;
+c) o valor da entrega é limitado a R$10.000,00 (dez mil reais), por operação; e
+d) no caso de entrega dos reais em espécie, a instituição autorizada a operar no mercado de câmbio deve adotar em relação à pessoa natural destinatária final dos recursos os procedimentos destinados a clientes previstos nesta Resolução, bem como manter em seu poder cópia da documentação de identificação da pessoa natural.
+Art. 27.  Para alienação de moeda estrangeira em espécie apreendida de que trata o § 1º do art. 60-A da Lei nº 11.343, de 23 de agosto de 2006, o vendedor da moeda estrangeira na operação de câmbio é a União, o Estado ou o Distrito Federal, conforme o caso, representado pelo órgão judicial que tenha determinado a conversão da moeda apreendida em moeda nacional.
+Parágrafo único.  O limite de valor previsto na alínea “a” do inciso II do art. 29 não se aplica à operação de câmbio de que trata o caput deste artigo.
+Art. 28.  As contas em moeda estrangeira no exterior tituladas pelas instituições autorizadas a operar no mercado de câmbio e destinadas à liquidação de suas operações devem ser mantidas em instituição sujeita a efetiva supervisão prudencial e de conduta na sua respectiva jurisdição ou integrante de grupo financeiro sujeito a efetiva supervisão consolidada, cabendo à instituição autorizada a operar no mercado de câmbio certificar-se dessa qualificação da instituição depositária de seus recursos no exterior, inclusive para fins de comprovação perante o Banco Central do Brasil.
+TÍTULO II
+INSTITUIÇÕES AUTORIZADAS A OPERAR NO MERCADO DE CÂMBIO
+CAPÍTULO ÚNICO
+Art. 29.  As autorizações para operar no mercado de câmbio podem ser concedidas para as instituições abaixo indicadas realizarem as seguintes operações:
+I - bancos e a Caixa Econômica Federal: todas as operações do mercado de câmbio;
+II - sociedades corretoras de títulos e valores mobiliários, sociedades distribuidoras de títulos e valores mobiliários, sociedades corretoras de câmbio, sociedades de crédito, financiamento e investimento e agências de fomento:
+a) operações de câmbio com clientes para liquidação pronta de até US$300.000,00 (trezentos mil dólares dos Estados Unidos) ou o seu equivalente em outras moedas, não sendo permitidas transferências referentes a negociação de instrumentos financeiros derivativos no exterior; e
+a) operações de câmbio com clientes para liquidação pronta de até US$500.000,00 (quinhentos mil dólares dos Estados Unidos) ou o seu equivalente em outras moedas, não sendo permitidas transferências referentes a negociação de instrumentos financeiros derivativos no exterior; e (Redação dada, a partir de 2/9/2024, pela Resolução BCB nº 401, de 17/7/2024.)
+b) operações para liquidação pronta no mercado interbancário, arbitragens no País e arbitragens com o exterior;
+III - instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil que prestem serviço como emissor de moeda eletrônica, emissor de instrumento de pagamento pós-pago ou credenciador, vedadas a condução de operações com correspondentes e operações envolvendo moedas em espécie, nacional ou estrangeira:
+a) operações de câmbio com clientes para liquidação pronta de até US$100.000,00 (cem mil dólares dos Estados Unidos) ou o seu equivalente em outras moedas, não sendo permitidas transferências referentes a negociação de instrumentos financeiros derivativos no exterior; e
+b) operações para liquidação pronta no mercado interbancário, arbitragens no País e arbitragens com o exterior.
+§ 1º  Os limites de valor estabelecidos neste artigo:
+I - não impedem a realização de operação de câmbio relativa a parcelas de pagamento ou de recebimento previstas em programação de desembolso de negócio com valor total superior aos citados limites;
+II - não se aplicam quando a instituição autorizada a operar em câmbio for a compradora e a vendedora da moeda estrangeira e esteja atuando para o cumprimento de obrigações decorrentes das operações de seus clientes.
+§ 2º  A instituição autorizada a operar no mercado de câmbio deve indicar diretor responsável pelas operações de que trata esta Resolução.
+§ 3º  As instituições autorizadas a operar no mercado de câmbio podem conduzir operações de câmbio por meio de posto de atendimento, observada a regulamentação sobre o assunto.
+§ 4º O disposto no § 3º deste artigo não é aplicável às instituições de pagamento autorizadas a operar no mercado de câmbio.
+Art. 30.  São requisitos para as autorizações de que trata o art. 29:
+I - viabilidade econômico-financeira do empreendimento;
+II - atendimento aos requerimentos mínimos de capital e de patrimônio previstos na regulamentação em vigor.
+Parágrafo único.  Na comprovação do requisito referido no inciso I do caput, o Banco Central do Brasil poderá exigir a apresentação de plano de negócio.
+Art. 31.  O Banco Central do Brasil, antes ou depois da expedição das autorizações previstas no art. 29, poderá:
+I - requisitar quaisquer documentos e informações adicionais que julgar necessários, bem como solicitá-los a outros órgãos da administração pública e a autoridades no exterior;
+II - convocar para entrevista administrador da instituição; e
+III - exigir a implementação de medidas de ajuste consideradas cabíveis.
+Art. 32.  Com relação aos pedidos de autorização de que trata o art. 29, o Banco Central do Brasil poderá:
+I - arquivar, sem apreciação do mérito do pedido, quando:
+a) verificar que o objeto ou os elementos que servem de base para o pedido foram alterados no curso do processo;
+b) houver descumprimento dos prazos previstos na regulamentação em vigor;
+c) identificar que não foram atendidas as exigências para complementar a instrução do processo, no prazo estabelecido;
+d) o administrador deixar de atender a convocação do Banco Central do Brasil para entrevista; ou
+e) estiver a instrução em desacordo com o formato exigido na regulamentação vigente;
+II - indeferir, caso venha a apurar:
+a) falsidade ou omissão nas declarações e nos documentos apresentados na instrução dos processos ou discrepância entre eles e os fatos ou dados apurados na análise; ou
+b) não atendimento aos requisitos estabelecidos nesta Resolução, ou a não comprovação de seu atendimento pelos interessados.
+Parágrafo único.  Nos casos de que trata o inciso II do caput, o Banco Central do Brasil, antes da decisão, poderá conceder prazo aos interessados para manifestação.
+Art. 33.  O Banco Central do Brasil poderá rever a decisão de autorização, considerando a relevância dos fatos, tendo por base as circunstâncias de cada caso e o interesse público, caso verifique:
+I - falsidade ou omissão nas declarações e nos documentos apresentados na instrução dos processos ou discrepância entre eles e os fatos ou dados apurados; ou
+II - circunstâncias preexistentes à decisão capazes de afetar a avaliação relativa ao atendimento aos requisitos para as autorizações.
+Parágrafo único.  Nas hipóteses descritas no caput, o Banco Central do Brasil deverá notificar a instituição para se manifestar sobre a irregularidade apurada.
+Art. 34.  O cancelamento de autorização ocorrerá nas seguintes hipóteses:
+I - a pedido da instituição; e
+II - de ofício, pelo Banco Central do Brasil.
+§ 1º  O Banco Central do Brasil poderá condicionar o cancelamento de que trata o inciso I do caput à liquidação ou transferência das operações no mercado de câmbio privativas ou permitidas à instituição em razão da respectiva autorização.
+§ 2º  O Banco Central do Brasil poderá efetuar o cancelamento de que trata o inciso II do caput quando constatada, a qualquer tempo, uma ou mais das seguintes situações:
+I - falta de prática habitual da realização de operações no mercado de câmbio;
+II - descumprimento do plano de negócio durante o seu período de abrangência, de forma insuficientemente justificada, a critério do Banco Central do Brasil.
+§ 3º  O Banco Central do Brasil, previamente ao cancelamento previsto no inciso II do caput, deverá notificar a instituição para se manifestar sobre a intenção de cancelamento.
+Art. 35.  O Banco Central do Brasil definirá os procedimentos, os documentos e as informações exigidos nos processos de autorização previstos no art. 29, bem como os respectivos prazos, tendo em vista o atendimento aos requisitos estabelecidos no art. 30.
+TÍTULO III
+OPERAÇÃO DE CÂMBIO
+CAPÍTULO I
+ADIANTAMENTO SOBRE A OPERAÇÃO DE CÂMBIO
+Art. 36.  O adiantamento sobre operação de câmbio constitui antecipação parcial ou total em função do preço em moeda nacional da moeda estrangeira comprada para entrega futura, podendo ser concedido a qualquer tempo, a critério das partes.
+Art. 37.  No caso de operação de câmbio de exportação, deve haver, no meio escolhido entre as partes para sua formalização, averbação contendo a informação sobre o valor adiantado e a informação de que referido valor serve para os fins e efeitos do art. 75 da Lei nº 4.728, de 14 de julho de 1965, podendo ser indicados adicionalmente a instituição do exterior fornecedora do crédito e seu país.
+Parágrafo único.  Nos casos de falência, liquidação extrajudicial ou intervenção na instituição financeira que concedeu o adiantamento, para fins de satisfação das obrigações decorrentes da utilização de créditos obtidos no exterior para financiamento da exportação:
+I - os pagamentos devem ser realizados com base nos recursos recebidos e oriundos das operações de câmbio de exportação, objeto dos adiantamentos concedidos, observada a proporcionalidade em relação ao total dos créditos tomados;
+II - os recursos recebidos do exportador devem ser utilizados no pagamento do respectivo crédito tomado no exterior, quando houver averbação, observado que, se houver caracterização de inadimplência do exportador, o pagamento à instituição fornecedora do crédito ocorre na forma do inciso I.
+CAPÍTULO II
+LIQUIDAÇÃO, ALTERAÇÃO, PRORROGAÇÃO, CANCELAMENTO OU BAIXA DE OPERAÇÃO DE CÂMBIO
+Art. 38.  A liquidação da operação de câmbio ocorre quando da entrega de ambas as moedas, nacional e estrangeira, objeto da contratação ou de títulos que as representem e pode ser:
+I - pronta, ou seja, em até dois dias úteis da data da contratação, excluídos os dias não úteis em pelo menos uma das praças das moedas envolvidas;
+II - futura, com prazo de até mil e quinhentos dias; ou
+III - a termo para operações interbancárias, com prazo de até mil e quinhentos dias.
+§ 1º  Caso as partes estejam de acordo, é admitida liquidação em data anterior à data originalmente acordada, salvo em caso de vedação estabelecida nesta Resolução.
+§ 2º  A liquidação no mesmo dia da contratação de câmbio é obrigatória para a compra ou venda de moeda estrangeira em espécie, em cheques de viagem e para o aporte e a retirada de recursos em moeda estrangeira em cartão ou outro meio de pagamento eletrônico de uso internacional.
+§ 3º  O prazo mínimo para liquidação de operação de venda de moeda estrangeira a título de doação de valor igual ou superior a R$100.000,00 (cem mil reais) é de um dia útil.
+§ 4º  Se a liquidação de operação de câmbio de exportação ocorrer após a data do embarque da mercadoria ou da prestação do serviço, o prazo máximo entre tais eventos é de mil e quinhentos dias.
+§ 5º   Para fins do disposto no § 4º, considera-se data de embarque:
+I - a data de emissão do conhecimento de transporte internacional;
+II - a data de averbação do despacho, caso não esteja disponível a data de emissão do conhecimento de transporte internacional; ou
+III - a data do documento equivalente ao conhecimento de transporte internacional, caso a mercadoria seja admitida em regime aduaneiro especial.
+Art. 39.  A regularização de operação de câmbio pode ocorrer mediante prorrogação, liquidação, cancelamento ou baixa, observados os prazos e demais condições estabelecidas na regulamentação.
+Art. 40.  A instituição autorizada a operar no mercado de câmbio deve poder comprovar a concordância do cliente para alteração de condição pactuada em operação de câmbio, observado que é vedada a alteração do comprador, do vendedor, do valor em moeda estrangeira, do valor em moeda nacional, da moeda estrangeira e da taxa de câmbio.
+Art. 41.  O cancelamento da operação de câmbio ocorre mediante consenso das partes, que devem declarar o desfazimento da relação jurídica anterior, com a observância aos princípios de ordem legal e regulamentar aplicáveis.
+Parágrafo único.  Nos casos em que não houver consenso para o cancelamento, a instituição autorizada a operar no mercado de câmbio pode proceder à baixa da operação de câmbio de sua posição cambial, que representa operação contábil e não implica rescisão unilateral do negócio nem alteração da relação contratual existente entre as partes, observado que o contravalor em moeda nacional da baixa é calculado com base na mesma taxa de câmbio aplicada à operação baixada.
+CAPÍTULO III
+PROCEDIMENTOS PARA RECOLHIMENTO DO ENCARGO FINANCEIRO
+Art. 42.  O comprador da moeda estrangeira receberá notificação do Banco Central do Brasil sobre o valor do encargo financeiro de que trata o art. 7º da Lei nº 14.286, de 2021, e o art. 1º da Resolução CMN nº 5.056, de 15 de dezembro de 2022, a ser recolhido ao Banco Central do Brasil por meio do Sistema de Lançamentos do Banco Central (SLB) ou por outro meio que assegure o recebimento.
+§ 1º  O prazo para o comprador da moeda estrangeira apresentar contestação da cobrança é de até quinze dias a partir do recebimento da notificação de que trata o caput.
+§ 2º  Não havendo contestação da cobrança, o prazo para o comprador da moeda estrangeira efetuar o recolhimento do encargo financeiro é de até trinta dias a partir do recebimento da notificação de que trata o caput.
+§ 3º  Havendo contestação, e caso a decisão do Banco Central do Brasil ratifique a cobrança de encargo financeiro, o prazo para o comprador da moeda estrangeira efetuar o recolhimento é de até quinze dias a partir do recebimento da notificação dessa decisão.
+§ 4º  O valor recolhido após o prazo de que trata o § 2º ou o § 3º, conforme o caso, é acrescido de juros de mora e multa de mora, nos termos do art. 37 da Lei nº 10.522, de 19 de julho de 2002.
+§ 5º  O não pagamento do encargo acarreta a inscrição do débito na Dívida Ativa do Banco Central do Brasil, bem como a inscrição do devedor no Cadastro Informativo de Créditos não Quitados do Setor Público Federal (Cadin), na forma da legislação e regulamentação em vigor.
+Art. 43.  Não tendo ocorrido o recolhimento do encargo financeiro em decorrência de decretação de falência do vendedor da moeda estrangeira ou de intervenção ou de liquidação extrajudicial do comprador da moeda estrangeira, aplicam-se os procedimentos a seguir indicados:
+I - nos casos de falência do vendedor da moeda estrangeira, cumpre ao comprador da moeda estrangeira:
+a) na data do cancelamento ou da baixa da operação de câmbio, comunicar ao síndico da massa falida a existência de débito referente ao encargo financeiro, identificando a operação de câmbio, o vendedor da moeda estrangeira, se houve cancelamento ou baixa, o valor em reais a ser recolhido, a data do cancelamento ou baixa e a legislação e regulamentação aplicáveis, encaminhando ao Banco Central do Brasil cópia da correspondência e comprovação de recebimento pelo destinatário;
+b) quando do recebimento do valor do encargo, informar ao Banco Central do Brasil, até o dia útil seguinte, para fins do recolhimento do encargo financeiro;
+II - nos casos de intervenção ou de liquidação extrajudicial do comprador da moeda estrangeira, cumpre ao interventor ou ao liquidante:
+a) na data do cancelamento ou da baixa da operação de câmbio, providenciar a cobrança do encargo ao vendedor da moeda estrangeira, identificando a operação de câmbio, se houve cancelamento ou baixa, o valor em reais a ser recolhido, a data do cancelamento ou baixa e a legislação e regulamentação aplicáveis;
+b) informar ao vendedor da moeda estrangeira que o pagamento do encargo financeiro deve ser efetuado ao comprador da moeda estrangeira e que, na impossibilidade de o pagamento ser efetuado ao comprador da moeda estrangeira, o encargo deve ser recolhido diretamente ao Banco Central do Brasil, observado que deve ser encaminhada ao Banco Central do Brasil cópia da correspondência com comprovação de recebimento pelo destinatário;
+c) na hipótese de vir a ser decretada a falência do vendedor da moeda estrangeira, comunicar ao síndico da massa falida, na data do cancelamento ou da baixa da operação de câmbio, a existência de débito referente ao encargo financeiro, identificando a operação de câmbio, o vendedor da moeda estrangeira, se houve cancelamento ou baixa, o valor em reais a ser recolhido, a data do cancelamento ou baixa e a legislação e regulamentação aplicável, encaminhando ao Banco Central do Brasil cópia da correspondência com comprovação de recebimento pelo destinatário;
+d) quando do recebimento do valor do encargo, informar ao Banco Central do Brasil, até o dia útil seguinte, para fins do recolhimento do encargo financeiro na forma constante deste Capítulo, ou para repasse direto ao Banco Central do Brasil do valor recebido;
+III - nos casos previstos nos incisos I ou II, o Banco Central do Brasil, após receber comunicação do comprador da moeda estrangeira sobre o recebimento do valor do encargo financeiro, poderá reapresentar a notificação por intermédio do SLB, ou por outro meio que assegure o recebimento, sendo, nesse caso, assegurado o prazo de um dia útil, que se inicia na data do recebimento da notificação, para o recolhimento do encargo financeiro ou a dispensa da reapresentação da notificação, nos casos de repasse direto.
+Art. 44.  No caso de intervenção ou liquidação extrajudicial do comprador da moeda estrangeira sem a decretação de falência do vendedor da moeda estrangeira, há o acréscimo de juros de mora e multa de mora, nos termos do art. 37 da Lei nº 10.522, de 2002, implicando, quando for o caso, a inscrição do débito na Dívida Ativa do Banco Central do Brasil, e do nome do devedor no Cadin.
+Parágrafo único.  Na impossibilidade de pagamento ao comprador sob intervenção ou em liquidação extrajudicial, o devedor do encargo deve fazer o recolhimento diretamente ao Banco Central do Brasil, hipótese em que o comprador fica desobrigado do recolhimento do encargo financeiro.
+CAPÍTULO IV
+POSIÇÃO DE CÂMBIO E LIMITE OPERACIONAL
+Art. 45.  A posição de câmbio é representada pelo saldo das operações de câmbio (compra e venda de moeda estrangeira, de títulos e documentos que as representem e de ouro-instrumento cambial), registradas no Sistema Câmbio.
+§ 1º  Para todos os fins e efeitos a posição de câmbio é sensibilizada na data da informação ao Banco Central do Brasil da contratação da operação de câmbio, à exceção das operações interbancárias a termo, nas quais a posição de câmbio é sensibilizada a partir do segundo dia útil anterior à sua liquidação.
+§ 2º  A equivalência em dólares dos Estados Unidos é apurada com aplicação das cotações para contabilidade das paridades disponíveis no Sistema de Informações Banco Central (Sisbacen) do dia útil anterior, observando-se que:
+I - para moedas do tipo “A”, deve ser utilizada a paridade de venda da seguinte forma: valor na moeda estrangeira dividido pela paridade;
+II - para moedas do tipo “B”, deve ser utilizada a paridade de compra da seguinte forma: valor na moeda estrangeira multiplicado pela paridade.
+§ 3º  Relativamente a limites para posição de câmbio:
+I - não há limite para as posições de câmbio comprada ou vendida dos bancos e caixas econômicas autorizados a operar no mercado de câmbio;
+II - não há limite para a posição de câmbio comprada das demais instituições autorizadas a funcionar pelo Banco Central do Brasil, sendo a posição de câmbio vendida limitada a zero.
+TÍTULO IV
+OPERAÇÕES COM CLIENTES
+CAPÍTULO ÚNICO
+Art. 46.  As receitas de exportação podem ser ingressadas ou recebidas no Brasil em reais ou em moeda estrangeira, independentemente da moeda constante da negociação comercial, prévia ou posteriormente ao embarque da mercadoria ou à prestação dos serviços, observadas as disposições gerais sobre o ingresso e o recebimento de recursos no Brasil.
+§ 1º  O recebimento do valor da exportação pode ocorrer, entre outras formas, mediante crédito em conta mantida no exterior por instituição autorizada a operar no mercado de câmbio no País, a critério das partes.
+§ 2º  A operação de câmbio de exportação pode ser celebrada prévia ou posteriormente ao embarque da mercadoria ou da prestação do serviço, observados os prazos estabelecidos nesta Resolução.
+Art. 47.  O pagamento de importação pode ser realizado em reais ou em moeda estrangeira, observado que a antecipação desse pagamento pode ocorrer em até trezentos e sessenta dias anteriores à data prevista para:
+I - o embarque, nos casos de mercadorias importadas diretamente do exterior em caráter definitivo, inclusive sob o regime de drawback, ou quando destinadas a admissão na Zona Franca de Manaus, em Área de Livre Comércio ou em Entreposto Industrial;
+II - a nacionalização de mercadorias que tenham sido admitidas sob outros regimes aduaneiros especiais ou atípicos.
+Parágrafo único.  O pagamento antecipado de importação pode ser efetuado com antecipação de até mil e oitocentos dias em relação às datas indicadas nos incisos I e II do caput nos casos de:
+I - máquinas e equipamentos com longo ciclo de produção ou de fabricação sob encomenda, desde que compatível com o ciclo de produção ou de comercialização do bem; ou
+II - comprovação de impossibilidade de embarque ou de nacionalização do bem por fatores alheios à vontade do importador.
+Art. 48.  Ao não residente transitoriamente no País é permitido o recebimento de moeda estrangeira em espécie sem realização de operação de câmbio referente a ordem de pagamento a seu favor.
+TÍTULO V
+SERVIÇO DE TRANSFERÊNCIA OU PAGAMENTO INTERNACIONAL (EFX)
+TÍTULO V
+SERVIÇO DE PAGAMENTO OU TRANSFERÊNCIA INTERNACIONAL (EFX)
+(Denominação alterada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+Art. 49.  Para efeitos desta Resolução, é considerado eFX o serviço de pagamento ou transferência internacional que, por meio de operação de câmbio ou mediante movimentação em conta em reais de não residente realizada na forma prevista nesta Resolução, viabiliza:
+I - aquisição de bens e serviços, no País ou no exterior, que ocorra:
+a) de forma presencial; ou
+b) mediante solução de pagamento digital oferecida pelo prestador de eFX e integrada a plataforma de comércio eletrônico;
+II - transferência unilateral, limitada a US$10.000,00 (dez mil dólares dos Estados Unidos) ou o seu equivalente em outras moedas;
+III - transferência de recursos entre conta no País e conta no exterior de mesma titularidade, limitada a US$10.000,00 (dez mil dólares dos Estados Unidos) ou o seu equivalente em outras moedas, com as seguintes características:
+a) conta de depósito ou conta de pagamento pré-paga mantida no País em instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil ou em instituições de pagamento que, em virtude de sua adesão ao Pix, integrem o SPB; e
+b) conta de depósito ou conta de pagamento mantida em instituição no exterior sujeita a efetiva supervisão prudencial e de conduta ou integrante de grupo financeiro sujeito a efetiva supervisão consolidada;
+IV - saque no País ou no exterior.
+§ 1º  Não são admitidos fracionamentos de operações realizadas mediante prestação de eFX para fins de utilização de prerrogativa prevista neste Capítulo.
+§ 2º  Podem atuar como prestadores de eFX:
+I - bancos múltiplos, bancos comerciais, caixas econômicas, bancos de investimento, bancos de desenvolvimento, bancos de câmbio, agências de fomento, sociedades de crédito, financiamento e investimento, sociedades corretoras de títulos e valores mobiliários, sociedades distribuidoras de títulos e valores mobiliários, sociedades corretoras de câmbio e instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil que prestem serviço como emissor de moeda eletrônica, emissor de instrumento de pagamento pós-pago ou credenciador, independentemente de autorização para operar no mercado de câmbio, para viabilizar as atividades previstas nos incisos I a IV do caput;
+II - instituições de pagamento não previstas no inciso I deste parágrafo, para viabilizar:
+a) as atividades previstas na alínea “a” do inciso I e no inciso IV do caput, sem limitação de valor, quando estiverem atuando na qualidade de emissor de moeda eletrônica, de emissor de instrumento de pagamento pós-pago ou de credenciador no âmbito de arranjo de pagamento autorizado pelo Banco Central do Brasil;
+b) a aquisição de bens e serviços constante na alínea “b” do inciso I do caput, limitado a US$10.000,00 (dez mil dólares dos Estados Unidos) ou o seu equivalente em outras moedas, desde que não haja impedimento legal, regulamentar ou próprio para que tais pessoas jurídicas prestem esse serviço;
+III - outras pessoas jurídicas exclusivamente para viabilizar a aquisição de bens e serviços constante na alínea “b” do inciso I do caput, limitado a US$10.000,00 (dez mil dólares dos Estados Unidos) ou o seu equivalente em outras moedas, desde que não haja impedimento legal, regulamentar ou próprio para que tais pessoas jurídicas prestem esse serviço.
+Art. 50.  As operações de câmbio e as movimentações em contas em reais de não residentes para viabilizar pagamentos e recebimentos de clientes de prestadores de eFX são realizadas de forma individualizada ou consolidada, na forma prevista nesta Resolução, e devem observar classificação própria, quando requerida.
+Art. 50.  As operações de câmbio e as movimentações em contas em reais de não residentes para viabilizar pagamentos, recebimentos e transferências de clientes de prestadores de eFX são realizadas de forma individualizada ou consolidada, na forma prevista nesta Resolução, e devem observar classificação própria, quando requerida. (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+§ 1º  É vedado qualquer tipo de compensação envolvendo os pagamentos e os recebimentos referidos no caput.
+§ 2º  A instituição autorizada a operar no mercado de câmbio, no seu relacionamento com prestador de eFX não autorizado a funcionar pelo Banco Central do Brasil, deve:
+I - manter os dados cadastrais da instituição não autorizada; e
+II - ser capaz de comprovar perante o Banco Central do Brasil que se certificou de que o prestador de eFX não autorizado adota política, procedimentos e controles internos para cumprir os deveres e as obrigações previstos nesta Resolução.
+§ 3º  As informações e os documentos necessários ao cumprimento do disposto no § 2º devem ser mantidos pela instituição autorizada a operar em câmbio à disposição do Banco Central do Brasil pelo prazo de dez anos contados a partir da última operação de compra ou venda de moeda estrangeira ou movimentação em conta em reais de não residente realizada por meio da referida instituição.
+§ 3º  As informações e os documentos necessários ao cumprimento do disposto no § 2º devem ser mantidos pela instituição autorizada a operar em câmbio à disposição do Banco Central do Brasil pelo prazo de dez anos contados a partir da operação de compra ou venda de moeda estrangeira realizada por meio da referida instituição ou da movimentação em conta em reais de não residente. (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+Art. 51.  O prestador de eFX deve assegurar-se de que seu cliente no País foi informado de forma clara e tempestiva sobre:
+I - as responsabilidades do prestador de eFX quanto ao serviço;
+II - a natureza e as condições do serviço prestado; e
+III - as condições específicas relacionadas aos direitos do cliente de acordo com o instrumento de pagamento utilizado para a entrega dos reais ao prestador de eFX.
+Parágrafo único.  O prestador de eFX deve ser capaz de comprovar a ciência e a concordância prévia do cliente em relação às responsabilidades e condições de que trata o caput.
+Art. 52.  O prestador de eFX deve assegurar-se de que seu cliente tenha acesso a demonstrativo ou fatura das operações, contendo, no mínimo, a discriminação da operação, incluindo sua data, as partes envolvidas, o valor em moeda nacional, eventual tarifa cobrada pela operação, além dos subtotais relativos aos saques, aos pagamentos e às transferências realizadas.
+Parágrafo único.  Deve ser observado adicionalmente em relação às operações denominadas em moeda estrangeira que:
+I - o demonstrativo ou fatura deve conter a identificação da moeda estrangeira e o valor na referida moeda da operação;
+II - no caso de saque no exterior ou de aquisição de bens e serviços do exterior, o prestador de eFX deve, ainda, discriminar no demonstrativo ou fatura das operações de que trata o caput:
+II - no caso de saque no exterior ou de aquisição de bens e serviços do exterior efetuados com cartão de uso internacional, o prestador de eFX deve, ainda, discriminar no demonstrativo ou fatura das operações de que trata o caput: (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+a) o valor equivalente em dólar dos Estados Unidos na data de cada operação;
+b) a taxa de conversão do dólar dos Estados Unidos para reais na data de cada operação; e
+c) o valor equivalente em reais, resultante da conversão do valor da alínea “a”, utilizando a taxa de conversão de que trata a alínea “b”.
+Art. 53.  Aplicam-se as seguintes regras ao cartão e aos outros meios de pagamento eletrônico de uso internacional com valores em moeda estrangeira previamente aportados no País:
+I - as operações de saque e de pagamento são condicionadas à existência de recursos previamente aportados;
+II - é permitido o aporte de valores denominados em mais de uma moeda estrangeira; e
+III - é dispensada a prestação de informação ao Banco Central do Brasil sobre a conversão, entre moedas estrangeiras, de saldo previamente aportado.
+CAPÍTULO II
+ENTREGA E RECEBIMENTO DE REAIS NO PAÍS
+Art. 54.  O pagamento ou o recebimento no País decorrente de operação realizada por meio de prestador de eFX deve ser realizado exclusivamente em reais.
+§ 1º  O valor em reais de que trata o caput é final, sendo vedada qualquer indexação a moeda estrangeira ou conversão subsequente.
+§ 2º  A taxa de conversão para reais da operação ou de eventual devolução de recursos deve referir-se à data do respectivo evento, observado que, se o pagamento de reais pelo cliente ao prestador de eFX ocorrer posteriormente à data da operação, o prestador de eFX pode ofertar ao seu cliente a possibilidade de conversão das obrigações pelo valor equivalente em reais no dia do respectivo pagamento, condicionada à expressa aceitação do cliente.
+Art. 55.  Nos pagamentos ou transferências internacionais a partir do País, a entrega de reais pelo cliente ao prestador de eFX deve ser realizada a partir de:
+I - conta de depósito ou de pagamento de titularidade do cliente mantida em instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil ou em instituições de pagamento que, em virtude de sua adesão ao Pix, integrem o SPB; ou
+II - boleto de pagamento tendo como pagador o cliente no País e como beneficiário o prestador de eFX.
+Art. 56.  Nos pagamentos ou transferências internacionais a partir do exterior, a entrega de reais pelo prestador de eFX ao seu cliente deve ser realizada mediante crédito à conta de depósito ou de pagamento pré-paga de titularidade do cliente mantida em instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil ou em instituições de pagamento que, em virtude de sua adesão ao Pix, integrem o SPB.
+Parágrafo único.  Excetuam-se do disposto no caput as operações de saque de recursos realizadas no País utilizando cartão ou outro meio de pagamento eletrônico de uso internacional emitido no exterior.
+TÍTULO VI
+OPERAÇÕES ENTRE INSTITUIÇÕES AUTORIZADAS E COM INSTITUIÇÕES FINANCEIRAS NO EXTERIOR
+CAPÍTULO I
+OPERAÇÕES ENTRE INSTITUIÇÕES AUTORIZADAS A OPERAR NO MERCADO DE CÂMBIO
+Art. 57.  As operações realizadas no mercado interbancário são aquelas realizadas entre instituições autorizadas a operar no mercado de câmbio.
+§ 1º  As operações no mercado interbancário podem ser celebradas para liquidação pronta, futura ou a termo, havendo vedação para seu cancelamento, baixa, prorrogação ou liquidação antecipada.
+§ 2º  A entrega dos reais nas operações de câmbio de que trata este Capítulo é efetuada por meio de comando próprio no Sistema de Transferência de Reservas (STR).
+§ 3º  Para as operações de câmbio interbancárias a termo, a taxa de câmbio é livremente pactuada entre as partes e deve espelhar o preço negociado da moeda estrangeira para a data da liquidação da operação de câmbio, observado que, em referida data, há a entrega efetiva e simultânea das moedas, nacional e estrangeira, não sendo admitidos adiantamentos das moedas.
+§ 4º  A compra e a venda de moeda estrangeira por arbitragem são registradas com atribuição, às moedas compradas e vendidas, do mesmo contravalor em reais.
+§ 5º  As operações no mercado interbancário são realizadas com ou sem intermediação de câmara ou prestador de serviços de compensação e de liquidação cujo sistema tenha sido autorizado pelo Banco Central do Brasil para liquidação de operações de câmbio.
+Art. 58.  A formalização da operação de câmbio ocorre com:
+I - no caso de operação realizada no País sem intermediação de câmara ou prestador de serviços de compensação e de liquidação, a confirmação, pela instituição vendedora da moeda estrangeira, dos dados da operação registrados no Sistema Câmbio pela instituição compradora da moeda estrangeira;
+II - no caso de operação realizada por intermédio de câmara ou de prestador de serviços de compensação e de liquidação:
+a) a confirmação no Sistema Câmbio, pela câmara ou prestador de serviços de compensação e de liquidação, dos dados da operação registrados pela instituição compradora da moeda estrangeira e confirmados pela instituição vendedora da moeda estrangeira, quando não houver uso de sistemas de negociação sem identificação da contraparte (tela cega);
+b) a verificação da identidade, no Sistema Câmbio, das chaves contidas nas mensagens enviadas pela instituição compradora e pela instituição vendedora com a chave enviada pela câmara ou prestador de serviços de compensação e de liquidação, quando houver uso de sistemas de negociação sem identificação da contraparte (tela cega);
+III - no caso de arbitragem no País, a confirmação, pela instituição contraparte da operação, dos dados registrados no Sistema Câmbio pela outra instituição parte da operação;
+IV - no caso de operação realizada com instituição no exterior, o registro, pela instituição no País, dos dados no Sistema Câmbio;
+V - no caso de operação realizada com o Banco Central do Brasil, o registro realizado de forma automática no Sistema Câmbio dispensa confirmação pela contraparte.
+Art. 59.  No caso de operação realizada sem intermediação de câmara ou prestador de serviços de compensação e de liquidação, a confirmação da operação no Sistema Câmbio pela instituição vendedora da moeda estrangeira implica a formalização de duas operações de câmbio onde figuram como partes a instituição compradora e a instituição vendedora da moeda estrangeira.
+Art. 60.  No caso de operação realizada por intermédio de câmara ou prestador de serviços de compensação e de liquidação, a confirmação ou a verificação da identidade no Sistema Câmbio implica a formalização de quatro operações de câmbio, da seguinte forma:
+I - um par de operações de câmbio em que figuram como partes a instituição compradora da moeda estrangeira e a câmara ou prestador de serviços de compensação e de liquidação; e
+II - um par de operações de câmbio em que figuram como partes a instituição vendedora da moeda estrangeira e a câmara ou prestador de serviços de compensação e de liquidação.
+Art. 61.  No caso de operação de câmbio realizada sem intermediação de câmara ou prestador de serviços de compensação e de liquidação:
+I - a instituição compradora da moeda estrangeira registra os dados da operação no Sistema Câmbio, devendo efetuar tal registro em até trinta minutos após o ajuste das condições com a instituição vendedora da moeda estrangeira;
+II - a instituição vendedora da moeda estrangeira confirma no Sistema Câmbio os dados e elementos da operação no decorrer dos primeiros trinta minutos, que se iniciam com o registro feito pela instituição compradora da moeda estrangeira;
+III - duas operações de câmbio são registradas sem liquidação automática pelo Sistema Câmbio;
+IV - as instituições compradora e vendedora da moeda estrangeira devem registrar a liquidação das operações no Sistema Câmbio;
+V - a operação registrada pela instituição compradora da moeda estrangeira e não confirmada pela instituição vendedora da moeda estrangeira no prazo indicado no inciso II é bloqueada pelo sistema, ficando a reativação do registro no Sistema Câmbio a cargo da instituição compradora da moeda estrangeira;
+VI - no caso de operação com o Banco Central do Brasil, a informação à instituição contraparte sobre o registro é prestada pelo Sistema Câmbio.
+Art. 62.  No caso de operação de câmbio realizada por intermédio de câmara ou prestador de serviços de compensação e de liquidação quando não houver uso de sistemas de negociação sem identificação da contraparte (tela cega):
+I - a instituição compradora da moeda estrangeira registra os dados da operação no Sistema Câmbio, devendo efetuar tal registro em até trinta minutos após o ajuste das condições com o banco vendedor da moeda estrangeira;
+II - a instituição vendedora da moeda estrangeira confirma os dados e elementos da operação no decorrer dos primeiros trinta minutos, que se iniciam com o registro feito pela instituição compradora da moeda estrangeira, devendo ser observado, nos casos em que a confirmação seja devida após o fechamento da grade horária do mercado interbancário, o horário de fechamento da grade adicionado de quinze minutos para tal providência, respeitado o prazo máximo de trinta minutos;
+III - a câmara ou prestador de serviços de compensação e de liquidação confirma os dados e elementos da operação no decorrer dos primeiros trinta minutos, que se iniciam com a confirmação feita pela instituição vendedora da moeda estrangeira, devendo ser observado, nos casos em que a confirmação seja devida após o fechamento da grade horária do mercado interbancário, o horário de fechamento da grade adicionado de trinta minutos para tal providência, respeitado o prazo máximo de trinta minutos;
+IV - quatro operações de câmbio são registradas no Sistema Câmbio e o evento de liquidação de cada operação de câmbio é efetuado automaticamente pelo Sistema Câmbio;
+V - a operação registrada pela instituição compradora da moeda estrangeira e não confirmada pela instituição vendedora da moeda estrangeira no prazo indicado no inciso II é bloqueada pelo sistema, ficando a reativação do registro no Sistema Câmbio a cargo da instituição compradora da moeda estrangeira;
+VI - a operação confirmada pela instituição vendedora da moeda estrangeira e não confirmada pela câmara ou prestador de serviços de compensação e de liquidação no prazo indicado no inciso III é bloqueada pelo sistema, ficando a reativação do registro no Sistema Câmbio a cargo da instituição compradora da moeda estrangeira e as respectivas confirmações a cargo da instituição vendedora da moeda estrangeira e da câmara ou prestador de serviços de compensação e de liquidação.
+Art. 63.  No caso de operação de câmbio realizada por intermédio de câmara ou prestador de serviços de compensação e de liquidação com uso de sistemas de negociação sem identificação da contraparte (tela cega):
+I - a câmara ou prestador de serviços de compensação e de liquidação, imediatamente após o fechamento da operação no sistema de negociação, pelas instituições compradora e vendedora da moeda estrangeira, registra os dados da operação no Sistema Câmbio e os informa às instituições compradora e vendedora;
+II - as instituições compradora e vendedora, após recebimento da informação da câmara ou prestador de serviços de compensação e de liquidação, confirmam os dados da operação, em até trinta minutos, no sistema Câmbio, observado o prazo limite de trinta minutos após o fechamento da grade horária do mercado interbancário;
+III - quatro operações de câmbio são registradas no Sistema Câmbio e o evento de liquidação de cada operação de câmbio é efetuado automaticamente pelo Sistema Câmbio;
+IV - a inobservância do contido no inciso II implica o expurgo das referidas operações do Sistema Câmbio, as quais serão consideradas inexistentes.
+Art. 64.  No caso de operação de arbitragem no País, a confirmação no Sistema Câmbio pela instituição contraparte implica a celebração de dois pares de operações de câmbio, em que figuram como partes contratantes a instituição compradora e a instituição vendedora das moedas estrangeiras, sendo cada par de operações relativo a cada moeda arbitrada, observado que:
+I - uma instituição parte registra os dados da operação no Sistema Câmbio, devendo efetuar tal registro em até trinta minutos após o ajuste das condições com a instituição contraparte da operação;
+II - a instituição contraparte da operação confirma no Sistema Câmbio os dados e elementos da operação no decorrer dos primeiros trinta minutos, que se iniciam com o registro feito pela outra instituição parte da operação;
+III - quatro operações de câmbio são registradas no Sistema Câmbio conforme o caput, que não são liquidadas de forma automática pelo Sistema Câmbio;
+IV - as instituições parte e contraparte da operação devem liquidar as operações no Sistema Câmbio.
+Parágrafo único.  A operação registrada pela instituição parte e não confirmada pela instituição contraparte no prazo indicado no inciso II é bloqueada pelo sistema, ficando a reativação do registro no Sistema Câmbio a cargo da instituição parte da operação.
+CAPÍTULO II
+OPERAÇÕES COM INSTITUIÇÕES FINANCEIRAS NO EXTERIOR
+Art. 65.  A instituição autorizada a operar no mercado de câmbio pode realizar operações com instituição do exterior sujeita à regulação e à supervisão financeira em seu país de origem.
+§ 1º  A compra e a venda de moeda estrangeira por arbitragem devem ser registradas na forma estabelecida pelo Banco Central do Brasil, atribuindo-se às moedas compradas e vendidas o mesmo contravalor em reais.
+§ 2º  A instituição bancária autorizada a operar no mercado de câmbio pode realizar operação de compra ou de venda de moeda estrangeira com instituição do exterior sujeita à regulação e à supervisão financeira em seus país de origem, em contrapartida a reais em espécie recebidos do ou enviados para o exterior, na forma da regulamentação em vigor, sendo obrigatório:
+I - conduzir as operações em apenas uma agência previamente registrada no Sistema Câmbio pelo diretor responsável pelas operações de que trata esta Resolução;
+II - manter prova de que a entrada ou a saída dos recursos no ou do País foi objeto de declaração na forma da regulamentação em vigor;
+III - obter previamente o CNPJ da instituição do exterior sujeita à regulação e à supervisão financeira em seus país de origem contraparte na operação; e
+IV - utilizar cédulas novas para envio ao exterior, observado que a instituição bancária responsável pela remessa de cédulas ao exterior também é responsável pela manutenção de registro e controle da numeração das cédulas enviadas.
+CAPÍTULO III
+OPERAÇÕES COM OURO
+Art. 66.  O ouro classificado como instrumento cambial consta da posição de câmbio de instituição autorizada a operar no mercado de câmbio e decorre de operação:
+I - de compra de ouro-ativo financeiro da própria instituição;
+II - de compra ou de venda de ouro do ou ao Banco Central do Brasil com essa finalidade;
+III - de compra ou de venda de ouro-instrumento cambial de outra instituição autorizada a operar no mercado de câmbio; ou
+IV - de arbitragem com outra instituição autorizada a operar no mercado de câmbio ou com instituição do exterior sujeita à regulação e à supervisão financeira em seu país de origem, na forma prevista nesta Resolução.
+§ 1º  As disposições normativas relativas às operações com ouro-instrumento cambial são as mesmas das operações de compra e de venda de moeda estrangeira, inclusive no tocante à composição e aos limites de posição de câmbio e à possibilidade de operações de arbitragem.
+§ 2º  Uma vez incorporado à posição de câmbio da instituição, o ouro somente pode ser negociado com outra instituição autorizada a operar no mercado de câmbio, com instituição do exterior sujeita à regulação e à supervisão financeira em seu país de origem ou com o Banco Central do Brasil, observadas as mesmas condições estabelecidas para a negociação de moeda estrangeira.
+§ 3º  As operações de que trata este Capítulo devem ser registradas como moeda própria no Sistema Câmbio, tomando por unidade o grama.
+TÍTULO VII
+CONTAS DE NÃO RESIDENTES EM REAIS
+CAPÍTULO ÚNICO
+Art. 67.  As instituições autorizadas a operar no mercado de câmbio podem abrir, manter e encerrar contas de depósito e contas de pagamento em reais tituladas por não residentes nas mesmas condições nas quais podem abrir e manter tais contas tituladas por residentes, ressalvadas as disposições deste Título.
+Parágrafo único.  Cada movimentação em conta de pagamento pré-paga em reais de que trata este Título é limitada a R$100.000,00 (cem mil reais), excetuada movimentação em contrapartida a operação de compra ou de venda de moeda estrangeira.
+Art. 68.  A movimentação de recurso de interesse de terceiro em conta de que trata este Título somente é permitida se a conta for titulada por instituição domiciliada ou com sede no exterior sujeita à regulação e à supervisão financeira em seu país de origem e mantida em banco autorizado a operar no mercado de câmbio, observado que, neste caso, a instituição mantenedora da conta:
+I - pode requisitar ou dispensar, conforme sua avaliação, informações e documentos comprobatórios, considerando a avaliação do cliente e as características da operação;
+I - pode requisitar ou dispensar, conforme sua avaliação, informações e documentos comprobatórios, considerando a avaliação do cliente e as características da operação; e (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+II - deve manter à disposição do Banco Central do Brasil e conservar pelo período mínimo de dez anos, contados do término do exercício em que ocorra a movimentação, as informações e documentos comprobatórios que tenham sido coletados;
+II - deve manter à disposição do Banco Central do Brasil e conservar pelo período mínimo de dez anos, contados do término do exercício em que ocorra a movimentação, as informações e documentos comprobatórios que tenham sido coletados. (Redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+III - deve obter do cliente a informação sobre a finalidade da movimentação, quando exigida no Anexo II.
+III - (Revogado, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+§ 1º  A movimentação de que trata o caput de valor superior a R$10.000,00 (dez mil reais) deve ter como contrapartida crédito ou débito à conta de depósito ou de pagamento mantida em instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil ou em instituições de pagamento que, em virtude de sua adesão ao Pix, integrem o SPB, observado que referida movimentação:
+I - também pode ser realizada por meio de cheque de emissão do pagador, na forma de sua regulamentação;
+II - não é permitida em contrapartida a crédito à conta de pagamento pós-paga.
+§ 2º   A movimentação de que trata o caput de até R$10.000,00 (dez mil reais) pode ser realizada com qualquer meio de pagamento em uso no mercado financeiro, inclusive espécie, observado o inciso II do § 1º.
+Art. 68-A.  No caso de movimentação de recurso de interesse de terceiro em conta de que trata este Título, a instituição mantenedora da conta deve obter do cliente a informação sobre a finalidade da movimentação, quando exigida no Anexo II, devendo, para esse fim, apresentar ou tornar disponível, em livre formato que permita seu claro entendimento pelo cliente, os códigos constantes dos Anexos III, IV ou V, conforme o caso. (Incluído, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+§ 1º  Devem também ser prestadas as informações constantes do Anexo VI, com a indicação efetuada pelo cliente, sobre o pagador ou recebedor no exterior e sua relação de vínculo com o cliente. (Incluído, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+§ 2º  A pedido do cliente: (Incluído, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+I - é facultada a utilização da lista de códigos constante do Anexo IV para movimentação de até R$250.000,00 (duzentos e cinquenta mil reais), mediante concordância da instituição mantenedora; (Incluído, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+II - a instituição mantenedora deve ajustar informação já prestada pelo cliente relativa à movimentação. (Incluído, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+§ 3º  As instituições mantenedoras prestarão orientação e suporte técnico, inclusive por meio virtual, para os clientes que necessitarem de apoio para a correta classificação da finalidade da movimentação. (Incluído, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+TÍTULO VIII
+CONTAS EM MOEDA ESTRANGEIRA NO PAÍS
+CAPÍTULO ÚNICO
+Art. 69.  As contas de depósito em moeda estrangeira no País podem ser abertas, mantidas e encerradas por instituições bancárias autorizadas a operar no mercado de câmbio.
+§ 1º  Os recursos mantidos nas contas de depósito em moeda estrangeira podem ser livremente aplicados no mercado internacional, salvo eventual restrição estabelecida em legislação especial ou por órgão regulador.
+§ 2º  Ficam mantidas as autorizações concedidas até a data de entrada em vigor desta Resolução para a abertura e manutenção das contas em moeda estrangeira.
+Art. 70.  Podem ser mantidas as contas de depósito em moeda estrangeira tituladas por:
+I - agência de turismo ou prestador de serviços turísticos, tendo a conta movimentação restrita a recebimentos e pagamentos decorrentes de sua atuação no turismo emissivo ou receptivo;
+II - embaixadas, legações estrangeiras e organismos internacionais reconhecidos pelo Governo brasileiro, tendo a conta livre movimentação;
+III - empresa que atue na prestação de serviços postais, conforme o art. 2º da Lei nº 6.538, de 1978, tendo a conta movimentação restrita ao curso das sistemáticas de vale postal internacional, vedada movimentação de valores em espécie;
+IV - emissores de cartões de crédito de uso internacional, tendo a conta movimentação restrita à efetivação de pagamentos ao exterior pela utilização em lojas francas e no exterior de cartões emitidos no Brasil, vedada movimentação de valores em espécie;
+V - estrangeiro transitoriamente no País e brasileiro não residente, observado que seus créditos são restritos a recursos oriundos do exterior e que os débitos se sujeitam a operação de câmbio no caso de transferência no Brasil para residente;
+VI - entidades da administração direta e indireta da União, dos Estados, dos Municípios e do Distrito Federal, sendo que a conta deve ser vinculada a operação de crédito externo (contas designadas) concedido por organismos internacionais e agências governamentais estrangeiras e que, no caso de contas da União, devem ser observadas as condições estabelecidas pela Secretaria do Tesouro Nacional;
+VII - empresas encarregadas da implementação e desenvolvimento de projetos do setor energético;
+VIII - sociedades seguradoras, resseguradoras e corretoras de resseguro;
+IX - transportadores não residentes;
+X - instituições autorizadas a operar no mercado de câmbio; e
+XI - empresas detentoras de direitos de exploração e produção de petróleo e gás natural.
+Art. 71.  As empresas encarregadas da implementação e desenvolvimento, no País, de projetos relacionados com a prospecção, produção, exploração, processamento e transporte de petróleo e de gás natural e com a geração e transmissão de energia elétrica podem ser titulares das contas de que trata este Título, observado que:
+I - para a abertura das contas, o titular deve possuir ato público de liberação (concessão, autorização ou permissão) da Agência Nacional de Energia Elétrica (Aneel) ou da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) ou, ainda, de órgão estadual responsável pela delegação, quando for o caso;
+II - somente podem ter em depósito recursos em moedas estrangeiras equivalentes aos reais recebidos em decorrência das atividades previstas no caput e destinados à liquidação de compromissos e obrigações no exterior previstos na regulamentação do Banco Central do Brasil;
+III - os saques sobre as contas somente podem ser efetuados para remessa ao exterior em pagamento de obrigações que integrem os projetos previstos no caput e, no caso de consórcio, para conta em moeda estrangeira titulada por empresa do mesmo consórcio, devendo ser observada a legislação cambial vigente;
+IV - no caso de consórcio, todas as empresas participantes podem ser titulares de contas em moeda estrangeira, desde que venham a auferir receitas decorrentes das atividades previstas no caput;
+V - para a abertura da conta, o interessado deve apresentar manifestação do Banco Central do Brasil de que a empresa está contemplada pelas disposições desta Resolução.
+§ 1º  A extinção dos efeitos do ato público de liberação de que trata o inciso I implica a perda da faculdade de manutenção da conta em moeda estrangeira.
+§ 2º  Na hipótese do § 1º, deve ser providenciado o encerramento da conta em moeda estrangeira e a conversão para reais do saldo porventura existente no prazo de trinta dias, mediante realização de operação de câmbio, na forma da regulamentação em vigor.
+Art. 72.  As sociedades seguradoras, resseguradores locais, resseguradores admitidos e corretoras de resseguros podem ser titulares de contas em moeda estrangeira, observado que:
+I - a movimentação de conta em moeda estrangeira titulada por sociedade seguradora, ressegurador local ou ressegurador admitido é restrita a:
+a) recebimentos e pagamentos de prêmios, indenizações, recuperações de crédito e outros valores previstos em contratos de seguro, resseguro, retrocessão e cosseguro, celebrados em moeda estrangeira;
+b) rendimentos da aplicação dos saldos existentes, observada a regulamentação relativa à aplicação de recursos garantidores;
+c) acolhimentos em depósito de recursos para manutenção do saldo mínimo da conta, definido pelo Conselho Nacional de Seguros Privados (CNSP), no caso de ressegurador admitido, observado que o saque dos recursos destinados à manutenção de saldo mínimo somente pode ser promovido após a liberação do vínculo pela Superintendência de Seguros Privados (Susep);
+II - o uso da conta em moeda estrangeira titulada por corretora de resseguros é restrita ao trânsito dos valores referentes a prêmios, indenizações e outros valores previstos em contratos de resseguro celebrados em moeda estrangeira, observado que os valores em moeda estrangeira referentes à remuneração da corretora de resseguros devem ser imediatamente convertidos para reais, mediante contratação e liquidação do câmbio;
+III - os valores nelas mantidos podem ser livremente convertidos para reais, mediante contratação e liquidação de operação de câmbio, na forma da regulamentação em vigor, com exceção dos valores relativos às aplicações dos recursos garantidores das provisões técnicas que tenham vedada a sua conversão para reais;
+IV - é dispensada operação de câmbio para transferência de recursos entre tais contas;
+V - a perda da autorização pela Susep implica a perda da faculdade de manutenção da conta em moeda estrangeira, devendo ser providenciado seu encerramento e promovida a conversão para reais do saldo porventura existente no prazo de trinta dias, mediante realização de operação de câmbio, na forma da regulamentação em vigor.
+Art. 73.  Os transportadores não residentes podem ser titulares de conta de depósito em moeda estrangeira, que pode ser alimentada com recursos resultantes da conversão de moeda nacional auferida no País em decorrência de suas atividades.
+Art. 74.  Nas operações de câmbio para fins de transferência ao exterior de receitas auferidas no País pelos transportadores não residentes é facultada a manutenção transitória de valores estimados para futura utilização no pagamento de despesas incorridas no País.
+§ 1º  As operações de câmbio tratadas no caput são liquidadas pelo valor integralmente contratado, podendo ocorrer o envio de ordem de pagamento ao exterior por valor inferior ao da operação de câmbio correspondente e a diferença servir para o pagamento das despesas incorridas no País pelo transportador não residente, devendo, quando do pagamento de tais despesas, serem celebradas as respectivas operações de câmbio na forma da regulamentação em vigor.
+§ 2º  Para fins de apuração dos valores em moeda estrangeira referentes às despesas incorridas no País tratadas no § 1º, a critério das partes, pode ser utilizada qualquer taxa de câmbio que esteja entre as taxas mínima e máxima disponíveis no Sisbacen, no período referente à permanência do veículo transportador em território nacional.
+§ 3º  Caso o valor estimado para o custeio de que trata o caput tenha sido superior ao efetivamente despendido no Brasil, deve ser enviada nova ordem de pagamento ao exterior com o valor não utilizado no País.
+Art. 75.  As instituições autorizadas a operar no mercado de câmbio podem ser titulares de contas em moeda estrangeira, observado que a débito dessas contas podem os bancos depositários:
+I - acatar instrumentos em cobrança de bancos do exterior ou de bancos no País autorizados a operar no mercado de câmbio;
+II - acolher solicitações de seus respectivos titulares para:
+a) saque ou emissão de ordens de pagamento em moeda estrangeira sobre o exterior;
+b) efetuar pagamentos de obrigações no País em moeda nacional;
+c) conversão a moeda nacional.
+§ 1º  As operações de que tratam as alíneas “b” e “c” do inciso II do caput devem ser precedidas da correspondente compra da moeda estrangeira por banco autorizado a operar no mercado de câmbio.
+§ 2º  A revogação, o cancelamento ou a cassação de autorização para operar no mercado de câmbio implica o encerramento da conta em moeda estrangeira, devendo o titular da conta vender a instituição autorizada a operar no mercado de câmbio o saldo existente, no prazo estabelecido pelo Banco Central do Brasil.
+Art. 76.  As empresas detentoras de direitos de exploração e produção de petróleo e gás natural podem ser titulares de conta de depósito em moeda estrangeira destinada exclusivamente ao depósito de fundos de provisionamento em garantia a despesas com o descomissionamento de instalações de produção em campos de petróleo e gás natural, conforme regulamentação sobre fundos de provisionamento editada pela ANP, devendo ser observado que:
+I - as movimentações são limitadas ao depósito dos fundos de provisionamento de que trata o caput e aos créditos e débitos decorrentes da sua aplicação, conforme previsto em regulamentação editada pela ANP, observado que outras movimentações dependem de anuência prévia da ANP;
+II - é permitida a conversão para reais dos valores nela mantidos, mediante contratação de operação de câmbio, na forma da regulamentação em vigor;
+III - é dispensada a contratação de operação de câmbio para a transferência de recursos em moeda estrangeira;
+IV - deve ser providenciado o seu encerramento e promovida a conversão para reais ou a transferência do saldo porventura existente em até cinco dias úteis após o banco mantenedor receber notificação da ANP.
+TÍTULO IX
+PRESTAÇÃO E DIVULGAÇÃO DE INFORMAÇÕES
+CAPÍTULO ÚNICO
+Art. 77.  A instituição autorizada a operar no mercado de câmbio deve enviar para o Banco Central do Brasil as informações sobre as operações no mercado de câmbio no prazo, na forma e nas condições estabelecidas nesta Resolução.
+Art. 78.  O envio das informações relativas às operações do mercado de câmbio deve ser realizado entre 7h e:
+I - 19h para o registro dos eventos do mercado primário;
+II - 17h para o registro de eventos do mercado interbancário, exceto os de arbitragens;
+III - 19h para o registro da contratação de arbitragens no mercado interbancário.
+§ 1º  As operações negociadas após os horários constantes dos incisos do caput devem ser registradas com data do evento do movimento subsequente.
+§ 2º  O Banco Central do Brasil poderá ampliar os horários constantes do caput em situação de excepcionalidade e mediante comunicação às instituições autorizadas a operar no mercado de câmbio.
+§ 3º  A prestação de informações ao Banco Central do Brasil sobre operação de câmbio de até US$50.000,00 (cinquenta mil dólares dos Estados Unidos), ou seu equivalente em outras moedas, que não necessite ser vinculada a operação de capital estrangeiro informada em sistema do Banco Central do Brasil pode ser realizada até o dia cinco do mês subsequente, observado que tal prestação de informações pode ser realizada por meio de arquivo no caso de operação de câmbio para liquidação pronta com apenas um pagador ou recebedor no exterior e não sujeita à interveniência de corretora ou distribuidora autorizada a funcionar pelo Banco Central do Brasil.
+§ 4º  A opção de liquidação automática pode ser utilizada para operação de compra ou de venda de moeda estrangeira com cliente, contratada para liquidação pronta, para qualquer finalidade que não necessite ser vinculada a operação de capital estrangeiro informada em sistema do Banco Central do Brasil, e com apenas um pagador ou recebedor no exterior.
+§ 5º  A anulação de registro no Sistema Câmbio de eventos da operação de câmbio é permitida apenas em situações excepcionais para a correção de erros ou eliminação de duplicidade, devendo observar requerimentos adicionais do Banco Central do Brasil.
+§ 6º  O registro de operação de câmbio fora do prazo regulamentar só é admitido para a situação de que trata o § 5º, ressalvadas as soluções de contingência do Sistema Câmbio ou as situações decorrentes de fatores alheios à vontade das instituições autorizadas a operar no mercado de câmbio.
+Art. 79.  As informações constantes do Anexo I a esta Resolução e eventuais alterações relativas às operações de câmbio devem ser prestadas ao Banco Central do Brasil pela instituição autorizada a operar no mercado de câmbio, por meio do Sistema Câmbio, no prazo, na forma e nas condições estabelecidas nesta Resolução.
+§ 1º  O Banco Central do Brasil pode adicionalmente requisitar informações complementares a serem enviadas pelas instituições autorizadas a operar no mercado de câmbio.
+§ 2º  As informações referentes às operações constantes do Sistema Câmbio devem ser compatíveis com os saldos das contas que compõem a posição de câmbio da instituição autorizada a operar no mercado de câmbio.
+§ 3º  A instituição autorizada a operar no mercado de câmbio que contrate correspondente no País deve registrar informações relativas a seu contratado no Sistema de Informações sobre Entidades de Interesse do Banco Central (Unicad) previamente à realização dos negócios e divulgá-las em formato de dados abertos, na forma e nas condições estabelecidas pelo Banco Central do Brasil.
+Art. 80.  Instituições mantenedoras de contas de não residentes devem prestar informações em relação às movimentações discriminadas no Anexo II até o dia cinco do mês subsequente ao mês da movimentação, por meio de mensagem ou de arquivo.
+§ 1º  O prazo de que trata o caput não se aplica à movimentação que necessite ser vinculada a operação de capital estrangeiro informada em sistema do Banco Central do Brasil, situação em que as informações devem ser enviadas por meio de mensagem até o segundo dia útil após o cliente informar a finalidade da movimentação.  
+§ 1º  (Revogado, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+§ 2º  Para fins da prestação de informações de que trata este artigo, as instituições mantenedoras devem cadastrar a conta no Sisbacen até o segundo dia útil após sua abertura.
+§ 2º  (Revogado, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+Parágrafo único.  O prazo de que trata o caput não se aplica à movimentação que necessite ser informada em sistema de prestação de informações de capital estrangeiro do Banco Central do Brasil, situação em que as informações devem ser enviadas por meio de mensagem até o segundo dia útil após o cliente informar a finalidade da movimentação. (Incluído, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+Art. 81.  As instituições abaixo indicadas devem prestar adicionalmente as seguintes informações ao Banco Central do Brasil por meio do Sistema Câmbio, na forma por ele estabelecida:
+I - instituições autorizadas a operar no mercado de câmbio: informações referentes às transferências unilaterais tratadas no art. 26, até o dia dez do mês subsequente;
+II - instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil: informações relativas aos pagamentos e transferências referentes ao eFX, tratado no Título V, observado que:
+a) informações relativas a aquisições de bens e serviços efetuadas com cartão de uso internacional devem ser prestadas até o dia dez do mês subsequente;
+b) informações relativas a demais pagamentos e transferências devem ser prestadas no prazo de dois dias úteis a partir da solicitação do Banco Central do Brasil.
+Parágrafo único.  O Banco Central do Brasil estabelecerá a forma para o envio de informações relativas ao serviço de transferência postal internacional.
+Art. 82.  O prestador de eFX cujo cartão de uso internacional de sua emissão permita a realização de saque no exterior ou a aquisição de bens e serviços do exterior deve, até as 10h, horário de Brasília:
+I - tornar disponível em todos os seus canais de atendimento ao cliente a taxa de conversão do dólar dos Estados Unidos para reais utilizada no dia anterior na conversão dos valores das operações em moeda estrangeira de seus clientes; e
+II - publicar, na forma e condições estabelecidas pelo Banco Central do Brasil, inclusive no formato de dados abertos, informações sobre o histórico das taxas de conversão de que trata o inciso I.
+TÍTULO X
+DISPOSIÇÕES FINAIS
+Art. 83.  As agências de turismo ainda detentoras de autorização para comprar e vender moeda estrangeira em espécie, cheques e cheques de viagem referentes a viagens internacionais cujos controladores finais apresentaram pedido ao Banco Central do Brasil para constituição e funcionamento de instituição do Sistema Financeiro Nacional passível de operar no mercado de câmbio, devem observar que, se o pedido for:
+I - deferido, a autorização concedida à agência de turismo perde a validade na data de início das atividades da nova instituição autorizada, respeitado o prazo previsto no plano de negócios; e
+II - indeferido ou arquivado, a autorização concedida à agência de turismo perde a validade trinta dias após a decisão do Banco Central do Brasil.
+Parágrafo único.  As agências de turismo de que trata o caput:
+I - podem comprar moeda estrangeira de instituição integrante do Sistema Financeiro Nacional autorizada a operar no mercado de câmbio para suprimento de recursos;
+II - não podem conduzir operações de câmbio por meio de posto de atendimento e a contratação de correspondentes para o curso de operações de câmbio;
+III - não têm posição de câmbio, mas devem observar o limite operacional diário de US$200.000,00 (duzentos mil dólares dos Estados Unidos), que representa o total em moeda estrangeira mantido pela agência de turismo em caixa e na conta em moeda estrangeira de que trata o inciso I do art. 70, sendo que eventual excesso sobre o referido limite deve ser obrigatoriamente vendido a instituição integrante do Sistema Financeiro Nacional autorizada a operar no mercado de câmbio, observado que, configurada contumácia, a ocorrência de excesso sobre o limite operacional pode implicar revogação da autorização;
+IV - devem enviar as informações referentes às suas operações para o Banco Central do Brasil na forma e no prazo por ele definidos.
+Art. 84.  As instituições autorizadas a operar no mercado de câmbio devem observar as condições de legítimos credores ou devedores para curso das operações cambiais.
+Art. 85.  Para a realização das operações de que trata esta resolução, as instituições autorizadas a operar no mercado de câmbio devem observar o disposto na Circular nº 3.978, de 2020.
+Art. 86.  Ficam revogados:
+I - a Resolução nº 2.202, de 27 de setembro de 1995;
+II - a Resolução nº 2.524, de 30 de julho de 1998;
+III - a Resolução nº 2.644, de 10 de setembro de 1999;
+IV - a Resolução nº 3.525, de 20 de dezembro de 2007;
+V - a Resolução nº 3.568, de 29 de maio de 2008;
+VI - a Resolução nº 3.657, de 17 de dezembro de 2008;
+VII - o art. 1º da Resolução nº 3.661, de 17 de dezembro de 2008;
+VIII - a Resolução nº 3.911, de 5 de outubro de 2010;
+IX - a Resolução nº 3.954, de 24 de fevereiro de 2011;
+X - a Resolução nº 3.965, de 31 de março de 2011;
+XI - o art. 2º da Resolução nº 4.021, de 29 de setembro de 2011;
+XII - a Resolução nº 4.051, de 26 de janeiro de 2012;
+XIII - a Resolução nº 4.103, de 28 de junho de 2012;
+XIV - a Resolução nº 4.113, de 26 de julho de 2012;
+XV - a Resolução nº 4.198, de 15 de março de 2013;
+XVI - o § 1º do art. 1º da Resolução nº 4.319, de 27 de março de 2014;
+XVII - a Resolução nº 4.407, de 23 de abril de 2015;
+XVIII - a Resolução nº 4.811, de 30 de abril de 2020;
+XIX- a Resolução CMN nº 4.844, de 30 de julho de 2020;
+XX - a Resolução CMN nº 4.942, de 9 de setembro de 2021;
+XXI - o art. 2º da Resolução CMN nº 4.948, de 30 de setembro de 2021;
+XXII - a Resolução CMN nº 4.961, de 21 de outubro de 2021;
+XXIII - a Resolução CMN nº 4.980, de 27 de janeiro de 2022;
+XXIV - a Circular nº 3.690, de 16 de dezembro de 2013;
+XXV - a Circular nº 3.691, de 16 de dezembro de 2013;
+XXVI - a Circular nº 3.702, de 28 de março de 2014;
+XXVII - a Circular nº 3.750, de 11 de março de 2015;
+XXVIII - a Circular nº 3.766, de 1º de outubro de 2015;
+XXIX - a Circular nº 3.811, de 14 de setembro de 2016;
+XXX - a Circular nº 3.825, de 26 de janeiro de 2017;
+XXXI - a Circular nº 3.829, de 9 de março de 2017;
+XXXII - a Circular nº 3.831, de 13 de abril de 2017;
+XXXIII - a Circular nº 3.845, de 13 de setembro de 2017;
+XXXIV - a Circular nº 3.914, de 20 de setembro de 2018;
+XXXV - a Circular nº 4.002, de 16 de abril de 2020;
+XXXVI - a Circular nº 4.018, de 13 de maio de 2020;
+XXXVII - a Circular nº 4.019, de 13 de maio de 2020;
+XXXVIII - a Circular nº 4.025, de 10 de junho de 2020;
+XXXIX - a Resolução BCB nº 4, de 12 de agosto de 2020;
+XL - a Resolução BCB nº 16, de 17 de setembro de 2020;
+XLI - a Resolução BCB nº 137, de 9 de setembro de 2021;
+XLII - a Resolução BCB nº 148, de 29 de setembro de 2021;
+XLIII - a Resolução BCB nº 159, de 3 de novembro de 2021;
+XLIV - a Resolução BCB nº 164, de 23 de novembro de 2021;
+XLV - a Resolução BCB nº 183, de 9 de fevereiro de 2022;
+XLVI - a Resolução BCB nº 231, de 27 de julho de 2022; e
+XLVII - a Resolução BCB nº 268, de 1º de dezembro de 2022.
+Art. 87.  Esta Resolução entra em vigor na data de sua publicação, exceto seus seguintes dispositivos, que entram em vigor em 1º de julho de 2023:
+I - o parágrafo único do art. 12;
+II - o inciso III do art. 29;
+III - o § 4º do art. 29.
+Otávio Ribeiro Damaso
+Diretor de Regulação
+ ANEXO I À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+INFORMAÇÕES MÍNIMAS QUE FAZEM PARTE DA OPERAÇÃO DE CÂMBIO
+I - identificação da instituição autorizada a operar no mercado de câmbio e, se houver, da instituição intermediadora, devendo ser informados para o cliente os nomes e os números de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) das instituições;
+II - identificação do cliente, observada a Circular nº 3.978, de 23 de janeiro de 2020;
+III - número da operação de câmbio no Sistema Câmbio;
+IV - data do evento e se o evento se refere a contratação, a alteração ou o cancelamento;
+V - informação sobre se a operação de câmbio é de compra ou de venda de moeda estrangeira;
+VI - moeda estrangeira;
+VII - valor em moeda estrangeira;
+VIII - taxa de câmbio;
+IX - valor em reais;
+X - Valor Efetivo Total (VET), quando exigido;
+XI - forma de entrega da moeda estrangeira;
+XII - data prevista para liquidação;
+XIII - finalidade da operação (natureza e, quando exigido, grupo);
+XIV - pagador ou recebedor no exterior, quando exigido;
+XV - nome e país do pagador ou do recebedor no exterior, se houver;
+XVI - relação de vínculo entre o cliente e o pagador ou o recebedor no exterior, quando exigido;
+XVII - percentual de adiantamento sobre a operação de câmbio, se houver;
+XVIII - número do código de capitais estrangeiros, se houver;
+XIX - instruções de recebimento ou de pagamento, se houver;
+XX - cliente, quando exigido;
+XXI - outras informações que o Banco Central do Brasil requisitar.
+ ANEXO I À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+(Anexo I com redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+INFORMAÇÕES MÍNIMAS QUE FAZEM PARTE DA OPERAÇÃO DE CÂMBIO
+I - identificação da instituição autorizada a operar no mercado de câmbio e, se houver, da instituição intermediadora, devendo ser informados para o cliente os nomes e os números de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) das instituições;
+II - identificação do cliente, observada a Circular nº 3.978, de 23 de janeiro de 2020;
+III - número da operação de câmbio no Sistema Câmbio;
+IV - data do evento e se o evento se refere a contratação, a alteração ou a cancelamento;
+V - informação sobre se a operação de câmbio é de compra ou de venda de moeda estrangeira;
+VI - moeda estrangeira;
+VII - valor em moeda estrangeira;
+VIII - taxa de câmbio;
+IX - valor em reais;
+X - Valor Efetivo Total (VET), quando exigido;
+XI - forma de entrega da moeda estrangeira;
+XII - data prevista para liquidação;
+XIII - finalidade da operação;
+XIV - pagador ou recebedor no exterior, quando exigido;
+XV - nome e país do pagador ou do recebedor no exterior, se houver;
+XVI - relação de vínculo entre o cliente e o pagador ou o recebedor no exterior, quando exigido;
+XVII - percentual de adiantamento sobre a operação de câmbio, se houver;
+XVIII - número do código de capitais estrangeiros, se houver;
+XIX - instruções de recebimento ou de pagamento, se houver;
+XX - outras informações que o Banco Central do Brasil requisitar.
+ ANEXO II À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+INFORMAÇÕES A SEREM ENVIADAS AO BANCO CENTRAL DO BRASIL EM RELAÇÃO A MOVIMENTAÇÕES EM CONTAS EM REAIS TITULADAS POR NÃO RESIDENTES
+(1) Movimentação relativa a ordem de pagamento recebida do exterior ou enviada para o exterior de interesse de terceiro inferior a R$1.000.000,00 (um milhão de reais) quando o remetente ou o destinatário final for residente ou, independentemente do valor, quando o remetente e o destinatário final forem não residentes:
+I - valor e data da movimentação;
+II - identificação do titular da conta; 
+III - dados sobre o remetente e o destinatário final.
+(2) Movimentação relativa a ordem de pagamento recebida do exterior ou enviada para o exterior de interesse de terceiro quando o remetente ou o destinatário final for residente de valor igual ou superior a R$1.000.000,00 (um milhão de reais) ou, independentemente do valor, quando a movimentação necessite ser vinculada a operação de capital estrangeiro informada em sistema do Banco Central do Brasil:
+I - valor e data da movimentação;
+II - identificação do titular da conta;
+III - dados sobre o remetente e o destinatário final;
+IV - finalidade da movimentação, conforme os Anexos III, IV ou V;
+V - número do código de capitais estrangeiros, se houver.
+(3) Valor total mensal dos créditos e valor total mensal dos débitos de movimentações iguais ou superiores a R$10.000,00 (dez mil reais) de conta titulada por embaixada, repartição consular ou organismo internacional reconhecido pelo Governo brasileiro.
+ ANEXO II À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+(Anexo II com redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+INFORMAÇÕES A SEREM ENVIADAS AO BANCO CENTRAL DO BRASIL EM RELAÇÃO A MOVIMENTAÇÕES EM CONTAS EM REAIS TITULADAS POR NÃO RESIDENTES
+(1) Movimentação relativa a ordem de pagamento recebida do exterior ou enviada para o exterior de interesse de terceiro:
+I - valor e data da movimentação;
+II - identificação do titular da conta;
+III - dados sobre o remetente e o destinatário final.
+(2) Movimentação relativa a ordem de pagamento recebida do exterior ou enviada para o exterior de interesse de terceiro quando o destinatário final ou o remetente for residente, além das informações estabelecidas em (1):
+I - finalidade da movimentação, conforme os Anexos IV ou V, se a movimentação tiver valor igual ou superior a R$1.000.000,00 (um milhão de reais); ou
+II - número do código de capitais estrangeiros e finalidade da movimentação, conforme os Anexos III, IV ou V, se a movimentação, independentemente de seu valor, necessitar ser informada em sistema de prestação de informações de capital estrangeiro do Banco Central do Brasil.
+(3) Valor total mensal dos créditos e valor total mensal dos débitos de movimentações próprias iguais ou superiores a R$10.000,00 (dez mil reais) de conta titulada por embaixada, repartição consular ou organismo internacional reconhecido pelo Governo brasileiro.
+ ANEXO III À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+Códigos de classificação da finalidade (natureza) da operação de câmbio de até US$50.000,00 (cinquenta mil dólares dos Estados Unidos), exceto operação de câmbio que necessite ser vinculada a operação de capital estrangeiro informada em sistema do Banco Central do Brasil
+ Natureza
+Código
+Viagem internacional
+32999
+Doação ou outra transferência sem contrapartida
+37994
+Transferência entre contas da mesma pessoa natural ou jurídica
+67995
+Compra ou venda de mercadoria
+12995
+Compra ou venda de serviço
+
+Serviço de computação e de informação
+46002
+Serviço de negócio
+46978
+Outro serviço
+46992
+Demais
+91992
+      Crédito externo sujeito à prestação de informações ao Banco Central
+  Principal (a ser ativado)
+  Juros (a ser ativado)
+      ANEXO III À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+(Anexo III com redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+Códigos de classificação da finalidade de operação de câmbio de até US$50.000,00 (cinquenta mil dólares dos Estados Unidos) ou seu equivalente em outras moedas, ou, quando exigida, de movimentação de até R$250.000,00 (duzentos e cinquenta mil reais) em conta de não residente em reais de interesse de terceiros.
+Finalidade
+Código
+Viagem internacional
+32999
+Doação ou outra transferência sem contrapartida
+37994
+Transferência entre contas da mesma pessoa natural ou jurídica
+67995
+Compra ou venda de mercadoria
+12995
+Compra ou venda de serviço
+
+Serviço de computação e de informação
+46002
+Serviço de negócio
+46978
+Outro serviço
+46992
+Crédito externo
+
+Principal
+72980
+Juros
+72997
+Demais
+91992
+  ANEXO IV À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+Códigos de classificação da finalidade (natureza e grupo) da operação de câmbio de valor superior a US$50.000,00 (cinquenta mil dólares dos Estados Unidos) ou seu equivalente em outras moedas, ou da operação de câmbio que, independentemente do valor, necessite ser vinculada a operação de capital estrangeiro informada em sistema do Banco Central do Brasil. Inclui movimentação de conta de não residente, quando exigida.
+ Natureza
+ Comércio exterior
+Natureza
+Código
+Exportação de mercadorias
+12005
+Importação de mercadorias
+12012
+Operações de back to back
+12029
+Encomendas internacionais
+12036
+Ajustes em transações comerciais
+12043
+Ativos virtuais
+12186
+ Transportes
+Natureza
+Código
+Aéreo
+  Fretes
+  - sobre exportação
+22002
+- sobre importação
+22019
+- outros fretes
+22026
+Outras receitas/despesas de transporte
+22033
+Fretamento
+22040
+Passagens
+22057
+Marítimo
+  Fretes
+  - sobre exportação
+22105
+- sobre importação
+22112
+- outros fretes
+22129
+Outras receitas/despesas de transporte
+22136
+Fretamento
+22143
+Passagens
+22150
+Rodoviário
+  Fretes
+  - sobre exportação
+22208
+- sobre importação
+22215
+- outros fretes
+22222
+Outras receitas/despesas de transporte
+22239
+Fretamento
+22246
+Passagens
+22253
+Outros Modais
+  Hidroviário
+22909
+Transporte por dutos e transmissão de energia
+22916
+Ferroviário e aeroespacial
+22923
+ Seguros
+Natureza
+Código
+Seguro de frete/transporte de exportação
+  Prêmio
+27007
+Indenização
+27014
+Seguro de frete/transporte de importação
+  Prêmio
+27021
+Indenização
+27038
+Resseguros
+  Prêmio
+27045
+Indenização
+27052
+Seguros de vida
+  Prêmio
+27069
+Indenização
+27076
+Outros seguros diretos
+  Prêmio
+27083
+Indenização
+27090
+Outros
+  Recuperação de sinistros
+27904
+Outros serviços relacionados a seguros
+27911
+ Viagens internacionais
+Natureza
+Código
+Gastos em viagens internacionais
+  No País
+32009
+No exterior - turismo
+32016
+No exterior - outras finalidades
+32023
+ Transferências unilaterais
+Natureza
+Código
+Manutenção de residentes
+37004
+Manutenção de estudantes
+37011
+Impostos
+37028
+Contribuições à seguridade social
+37035
+Contribuições a fundos de pensão
+37042
+Recebimento de benefícios de seguridade social
+37059
+Recebimento de benefícios de fundos de pensão
+37066
+Cooperação internacional
+37073
+Doações
+37080
+Outras transferências correntes
+37107
+Doações para obras de infraestrutura e aquisição de bens de capital
+37200
+Patrimônio
+37217
+Outras transferências de capital
+37224
+ Serviços diversos e outros
+Natureza
+Código
+Serviços técnicos e profissionais
+  Serviços postais e courier
+47001
+Serviços de telecomunicações
+47018
+Serviços de computação
+47025
+Serviços financeiros
+47032
+Corretagens em bolsa de mercadorias ao amparo da Res. 2.687
+47049
+Aluguel de equipamentos
+47056
+Pesquisa e desenvolvimento
+47063
+Serviços de engenharia/arquitetura
+47070
+Reparos e manutenção em máquinas e veículos
+47087
+Tratamento de resíduos e despoluição
+47094
+Agricultura, mineração e serviços relacionados
+47104
+Serviços de manufatura
+47111
+Serviços jurídicos
+47128
+Auditoria, contabilidade e consultoria tributária
+47135
+Consultoria de negócios e relações públicas
+47142
+Publicidade, pesquisas de mercado e de opinião e participações em feiras e exposições
+47159
+Serviços de agências de notícias
+47166
+Audiovisuais e serviços relacionados
+47173
+Outros serviços de fornecimento de informação
+47180
+Outros serviços técnicos, profissionais e administrativos
+47197
+Construção
+  No País
+47300
+No exterior
+47317
+Marcas registradas
+  Cessão
+47403
+Direitos de exploração/utilização
+47410
+Patentes
+  Cessão
+47441
+Direitos de exploração/utilização
+47458
+Franquias
+47472
+Fornecimento de
+  Tecnologia
+47506
+Serviços de assistência técnica
+47513
+Serviços e despesas complementares
+47520
+Direitos autorais
+  Licença para cópia e distribuição de programas de computador
+47551
+Licença para cópia e distribuição - outros
+47568
+Cessão ou uso de programas de computador
+47575
+Cessão ou uso - outros
+47582
+Transações comerciais
+  Comissões e outras despesas sobre transações comerciais
+47609
+Serviços pessoais, culturais e de entretenimento
+  Serviços de educação em viagem
+47702
+Serviços de educação
+47719
+Serviços de saúde em viagem
+47726
+Serviços de saúde
+47733
+Serviços turísticos
+47740
+Jogos e apostas
+46150
+Outros serviços pessoais, culturais e de entretenimento
+47757
+Receitas e despesas governamentais
+  Militares
+47805
+Corpos consulares e diplomáticos
+47812
+Outros
+47829
+Outros
+  Salários e outras compensações
+47908
+Aluguel de imóveis
+47915
+Direitos econômicos e federativos de atletas profissionais
+47922
+Créditos de carbono/direitos de emissão
+47939
+Reembolsos por serviços prestados ou recebidos – empresas de mesmo grupo econômico
+46222
+Indenizações não relacionadas a seguro
+46246
+ Rendas de capitais
+Natureza
+ Código
+Mercado financeiro e de capitais
+  Ações e fundos de investimento
+  - dividendos/distribuição de lucros
+52003
+- juros sobre capital próprio
+52010
+Títulos de dívida
+  - juros de títulos - no País
+52106
+- juros de títulos - mercado externo
+52113
+- ágios e deságios no lançamento de títulos brasileiros
+52120
+- ágios e deságios na recompra de títulos brasileiros
+52137
+Empréstimos e financiamentos
+  Juros de empréstimos
+52302
+Juros sobre linhas de crédito
+52319
+Juros sobre antecipações e financiamentos
+  - exportação
+52333
+- importação - curto prazo
+52357
+- importação - longo prazo
+52364
+- demais financiamentos
+52371
+Juros de arrendamentos
+52395
+Investimento direto
+  Dividendos/distribuição de lucros
+52405
+Juros sobre capital próprio
+52412
+Depósitos e disponibilidades
+  Juros sobre depósitos e disponibilidades
+52508
+Outros
+  Juros de mora e multas por atraso de pagamento
+52917
+ Capitais brasileiros
+Natureza
+Código
+Mercado financeiro e de capitais
+  Ações
+67005
+Fundos de investimento
+67043
+Brazilian Depositary Receipts (BDR)
+  - ações
+67081
+- outros valores mobiliários
+67098
+Títulos de dívida
+  - curto prazo
+67108
+- longo prazo
+67115
+Derivativos
+  - prêmios de opções e ajustes periódicos
+67201
+- depósito e resgate de margens, garantias e colaterais
+67218
+Empréstimos e financiamentos
+  Empréstimos diretos
+  - curto prazo
+67304
+- longo prazo
+67311
+Financiamentos de exportação de mercadorias
+  - curto prazo
+67335
+- longo prazo
+67342
+Financiamentos de exportação de serviços
+  - curto prazo
+67366
+- longo prazo
+67373
+Arrendamento mercantil financeiro
+67397
+Investimento direto
+  Aumento/redução de capital
+67407
+Aquisição/transferência de titularidade
+67414
+Depósitos e disponibilidades
+  Disponibilidades no exterior
+67500
+Depósitos em conta no País em moeda estrangeira
+67517
+Depósitos judiciais, cauções, garantias e outros recursos de terceiros
+67524
+Outros
+  Aquisição de mercadorias entregues no exterior
+67902
+Participação do Brasil no capital de organismos internacionais
+67919
+Compra e venda de imóveis no exterior
+67940
+ Capitais estrangeiros
+Natureza
+Código
+Mercado financeiro e de capitais
+  Ações
+72007
+Fundos de investimento
+72045
+Depositary Receipts (DR)
+  - ações
+72076
+- outros valores mobiliários
+72083
+Títulos no País
+72100
+Títulos privados de dívida - mercado externo
+  - curto prazo
+72148
+- longo prazo
+72155
+Títulos públicos de dívida - mercado externo
+  - curto prazo
+72162
+- longo prazo
+72179
+Títulos e valores mobiliários (arts. 1º e 3º da Lei nº 12.431)
+72193
+Derivativos
+  - prêmios de opções e ajustes periódicos
+72203
+- depósito e resgate de margens, garantias e colaterais
+72210
+- prêmios de opções e ajustes ao amparo da Res. 2.687
+72234
+Outros
+72296
+Empréstimos e financiamentos
+  Empréstimos diretos
+  - curto prazo
+72344
+- longo prazo
+72351
+Títulos de colocação privada
+72360
+Financiamentos
+  - importação e gastos locais vinculados à importação - longo prazo
+72368
+- gastos locais vinculados à importação - curto prazo
+72375
+- demais financiamentos
+72382
+Arrendamento mercantil financeiro
+72399
+Investimento direto
+  Aumento/redução de capital
+72409
+Aquisição/transferência de titularidade
+72416
+Depósitos e disponibilidades
+  Disponibilidades no País
+72502
+Disponibilidades no País em moeda estrangeira
+72519
+Depósitos judiciais, cauções, garantias e outros recursos de terceiros
+72526
+Outros
+  Aquisição de mercadorias entregues no País
+72904
+Compra e venda de imóveis no País
+72911
+ Grupo
+Grupo
+Código
+Conversões e transferências entre modalidades de capitais estrangeiros
+46
+Capitais estrangeiros - alterações de características
+47
+Devolução de valores
+49
+Recebimento/pagamento antecipado ‑ exportação/importação ‑ importador
+50
+Recebimento/pagamento antecipado ‑ exportação/importação ‑ terceiros
+51
+Recebimento antecipado ‑ exportação ‑ operações com prazo superior a 360 (trezentos e sessenta) dias
+52
+Outros
+90
+  ANEXO IV À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+(Anexo IV com redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+Códigos de classificação da finalidade da operação de câmbio de valor superior a US$50.000,00 (cinquenta mil dólares dos Estados Unidos) ou seu equivalente em outras moedas, ou, quando exigida, de movimentação de valor superior a R$250.000,00 (duzentos e cinquenta mil reais) em conta de não residente em reais de interesse de terceiros
+Comércio de bens
+Finalidade
+Código
+Exportação
+  Recebimento antecipado
+
+até 360 dias
+12108
+mais de 360 dias
+12115
+Recebimento posterior
+  até 360 dias
+12122
+mais de 360 dias
+12139
+Importação
+  Pagamento antecipado
+
+até 180 dias
+12407
+de 181 até 360 dias
+12414
+mais de 360 dias
+12421
+Pagamento posterior
+
+até 180 dias
+12438
+de 181 até 360 dias
+12445
+mais de 360 dias
+12452
+Operações de back to back
+12029
+Ativos virtuais
+12186
+Comércio de mercadorias sem trânsito aduaneiro no Brasil
+12823
+ Transportes
+Finalidade
+Código
+Fretes
+  Sobre exportação
+22301
+Sobre importação
+22318
+Fretamento de meios de transporte com tripulação
+22325
+Passagens
+22332
+Outras receitas e despesas de transporte
+22349
+ Seguros
+Finalidade
+Código
+Seguro de frete/transporte de exportação e de importação
+27100
+Demais seguros e resseguros
+  Prêmio
+27117
+Indenização
+27124
+ Viagens internacionais
+Finalidade
+Código
+Viagem internacional
+32999
+ Transferências unilaterais
+Finalidade
+Código
+Manutenção de residentes
+37303
+Impostos
+37028
+Contribuições e benefícios de seguridade social
+37310
+Contribuições e benefícios de fundos de pensão
+37327
+Doações e cooperação internacional
+37334
+Patrimônio
+37217
+Outras transferências unilaterais
+37358
+ Serviços diversos e outros
+Finalidade
+Código
+Serviços técnicos, profissionais e administrativos
+  Serviços postais e courier
+47001
+Serviços de telecomunicações
+47018
+Serviços de computação e de informação
+46002
+Serviços financeiros
+46019
+Pesquisa e desenvolvimento
+47063
+Reparos, manutenção e assistência técnica
+46026
+Agricultura, mineração, tratamento de resíduos e despoluição e serviços relacionados
+46033
+Serviços de manufatura
+47111
+Serviços relacionados a gestão e jurídicos
+46040
+Audiovisuais e serviços relacionados
+47173
+Serviços de engenharia/arquitetura e outros serviços técnicos, profissionais e administrativos
+46057
+Construção
+46105
+Marcas registradas e franquias – Cessão
+46112
+Patentes e tecnologia – Cessão
+46129
+Marcas, franquias, patentes e tecnologia – Direito de utilização
+46136
+Direitos autorais
+  Licença para cópia e distribuição
+
+programas de computador
+47551
+Outros
+47568
+Cessão ou uso
+
+programas de computador
+47575
+Outros
+47582
+Comissões e outras despesas sobre transações comerciais
+47609
+Serviços pessoais, culturais, de saúde, de educação e de entretenimento
+  Jogos e apostas
+46150
+Demais
+46167
+Receitas e despesas governamentais
+46198
+Outros
+  Salários e outras compensações
+47908
+Aluguel de imóveis e de equipamentos
+46208
+Direitos econômicos e federativos de atletas profissionais
+47922
+Créditos de carbono/direitos de emissão
+47939
+Compra e venda de imóveis
+46215
+Reembolsos por serviços prestados ou recebidos – empresas de mesmo grupo econômico
+46222
+Cessão de créditos
+46239
+Indenizações não relacionadas a seguro
+46246
+ Rendas de capitais
+Finalidade
+Código
+Mercado financeiro e de capitais
+  Ações e fundos de investimento
+  dividendos/distribuição de lucros e juros sobre capital próprio
+52027
+Títulos de dívida
+  juros de títulos no País
+52106
+juros de títulos - mercado externo
+52113
+ágios e deságios no lançamento ou na recompra de títulos brasileiros
+52144
+Empréstimos, financiamentos, antecipações, linhas de crédito e arrendamentos mercantis financeiros
+  Juros sobre operações relacionadas a comércio exterior
+52429
+Juros sobre demais operações
+52436
+Investimento direto
+  Dividendos/distribuição de lucros e juros sobre capital próprio
+52443
+Depósitos
+  Juros sobre depósitos
+52508
+ Capitais brasileiros
+Finalidade
+Código
+Mercado financeiro e de capitais
+  Ações
+67005
+Fundos de investimento
+67043
+Brazilian Depositary Receipts (BDR)
+67050
+Títulos de dívida
+  até 360 dias
+67108
+mais de 360 dias
+67115
+Derivativos
+  prêmios de opções e ajustes periódicos
+67201
+depósito e resgate de margens, garantias e colaterais
+67218
+Empréstimos, financiamentos, antecipações, linhas de crédito e arrendamentos mercantis financeiros  -  de gastos locais ou não relacionados a operações de comércio exterior
+  até 360 dias
+67438
+mais de 360 dias
+67445
+Investimento direto
+  Relacionado a fusão ou aquisição
+67476
+Demais
+67483
+Depósitos
+67531
+Outros
+  Participação do Brasil no capital de organismos internacionais
+67919
+ Capitais brasileiros
+(Redação dada pela Resolução BCB nº 417, de 2/10/2024.)
+Finalidade
+Código
+  Mercado financeiro e de capitais
+  Ações
+67005
+  Fundos de investimento
+67043
+  Brazilian Depositary Receipts (BDR)
+67050
+  Títulos de dívida
+  até 360 dias
+67108
+  mais de 360 dias
+67115
+  Derivativos
+  prêmios de opções e ajustes periódicos
+67201
+  depósito e resgate de margens, garantias e colaterais
+67218
+  Empréstimos, financiamentos, antecipações, linhas de crédito e arrendamentos mercantis financeiros - de gastos locais ou não relacionados a operações de comércio exterior
+  até 360 dias
+67438
+  mais de 360 dias
+67445
+  Investimento direto
+  Relacionado a fusão ou aquisição
+67476
+  Demais
+67483
+  Depósitos
+67531
+  Regime Especial de Regularização Cambial e Tributária (RERCT)
+67971
+Outros
+  Participação do Brasil no capital de organismos internacionais
+67919
+   Capitais estrangeiros
+Finalidade
+Código
+Mercado financeiro e de capitais
+  Ações
+72007
+Fundos de investimento
+72045
+Depositary Receipts (DR)
+72090
+Títulos no País
+72117
+Títulos no mercado externo
+  até 360 dias
+72124
+mais de 360 dias
+72131
+Derivativos
+  prêmios de opções e ajustes periódicos
+72241
+depósito e resgate de margens, garantias e colaterais
+72210
+Outros
+72296
+Empréstimos, financiamentos, antecipações, linhas de crédito e arrendamentos mercantis financeiros   -  de gastos locais ou não relacionados a operações de comércio exterior
+  até 360 dias
+72423
+mais de 360 dias
+72430
+Investimento direto
+  Relacionado a fusão ou aquisição
+72447
+Demais
+72454
+Depósitos
+72533
+ Grupo (Eliminado)
+
+ ANEXO V À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+Códigos de classificação da finalidade (natureza e grupo) para operação própria de instituição autorizada, para operação entre instituições autorizadas, para operação de instituição autorizada com prestador de eFX, para operação de instituição autorizada com o Banco Central do Brasil ou para operação especial. Inclui movimentação de conta de não residente, quando exigida
+ Natureza
+ Natureza
+Código
+Arbitragens
+  Operações no País
+  - liquidação pronta
+80013
+- liquidação futura
+80518
+Operações no exterior
+  - liquidação pronta
+83034
+- liquidação futura
+83058
+Troca de câmbio manual por sacado / sacado por manual
+  Operações no País
+86017
+Operações no exterior
+86024
+Operações entre instituições no País
+  Interbancário
+  - liquidação pronta e futura
+90302
+- liquidação a termo
+90357
+Com ouro
+  - liquidação pronta
+93017
+- liquidação futura
+93024
+Operações com instituição bancária do exterior, em contrapartida a reais em espécie recebidos do ou enviados para o exterior
+90500
+Operações com o Banco Central do Brasil
+  Coberturas específicas
+95503
+Compras de mercado ao Banco Central
+95620
+Repasses específicos
+95008
+Repasses obrigatórios
+95204
+Vendas de mercado ao Banco Central
+95101
+Serviço de pagamento ou transferência internacional (eFX)
+  Aquisição de bens e de serviços
+  - cartão de uso internacional
+34014
+- demais soluções de pagamento digital
+
+- ativos virtuais
+34038
+- jogos e apostas
+34045
+- outros
+34052
+Transferências unilaterais
+34155
+Transferência entre conta no País e conta no exterior de mesma titularidade
+34124
+Saques
+34131
+Operações especiais
+  Agências de turismo e meios de hospedagem de turismo - operações com instituições autorizadas a operar em câmbio
+33606
+Vales e reembolsos postais internacionais
+37097
+Ingressos de moeda estrangeira com valores em reais preestabelecidos no exterior para direcionamento dos recursos a pessoas naturais
+37114
+Operações com ouro-instrumento cambial
+67933
+Movimentações no País em contas de não residentes em reais
+  - ordem de pagamento de interesse de terceiro inferior a R$1 milhão quando o remetente ou o destinatário final for residente
+72629
+- em contrapartida a operações de câmbio
+72612
+Assunção de dívidas
+99176
+Pagamento da dívida externa para aplicação em projetos ambientais
+99183
+Outras
+99200
+Encadeamento Proex
+99217
+Encadeamento BNDES-Exim
+99224
+Alienação de moeda estrangeira apreendida
+99303
+Obrigações vinculadas a operações interbancárias e ajustes de posição decorrentes de ganhos ou perdas em aplicações financeiras no exterior
+99509
+ Depósitos no Banco Central do Brasil
+99671
+ Grupo
+Grupo
+Código
+Conversões e transferências entre modalidades de capitais estrangeiros
+46
+Capitais estrangeiros - alterações de características
+47
+Devolução de valores
+49
+Recebimento/pagamento antecipado ‑ exportação/importação ‑ importador
+50
+Recebimento/pagamento antecipado ‑ exportação/importação ‑ terceiros
+51
+Recebimento antecipado ‑ exportação ‑ operações com prazo superior a 360 (trezentos e sessenta) dias
+52
+Outros
+90
+  ANEXO V À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+(Anexo V com redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+Códigos de classificação da finalidade para operação própria de instituição autorizada, para operação entre instituições autorizadas, para operação de instituição autorizada com prestador de eFX, para operação de instituição autorizada com o Banco Central do Brasil ou para operação especial. Inclui movimentação de conta de não residente, quando exigida.
+Finalidade
+Código
+Arbitragens
+  Operações no País
+  - liquidação pronta
+80013
+- liquidação futura
+80518
+Operações no exterior
+  - liquidação pronta
+83034
+- liquidação futura
+83058
+Troca de câmbio manual por sacado / sacado por manual
+  Operações no País
+86017
+Operações no exterior
+86024
+Operações entre instituições no País
+  Interbancário
+  - liquidação pronta e futura
+90302
+- liquidação a termo
+90357
+Com ouro
+  - liquidação pronta
+93017
+- liquidação futura
+93024
+Operações com instituição bancária do exterior, em contrapartida a reais em espécie recebidos do ou enviados para o exterior
+90500
+Operações com o Banco Central do Brasil
+  Coberturas específicas
+95503
+Compras de mercado ao Banco Central
+95620
+Repasses específicos
+95008
+Repasses obrigatórios
+95204
+Vendas de mercado ao Banco Central
+95101
+Serviço de pagamento ou transferência internacional (eFX)
+  Aquisição de bens e de serviços
+  - cartão de uso internacional
+34014
+- demais soluções de pagamento digital
+
+- ativos virtuais
+34038
+- jogos e apostas
+34045
+- outros
+34052
+Transferências unilaterais
+34155
+Transferência entre conta no País e conta no exterior de mesma titularidade
+34124
+Saques
+34131
+Operações especiais
+  Agências de turismo e meios de hospedagem de turismo - operações com instituições autorizadas a operar em câmbio
+33606
+Vales e reembolsos postais internacionais
+37097
+Ingressos de moeda estrangeira com valores em reais preestabelecidos no exterior para direcionamento dos recursos a pessoas naturais
+37114
+Operações com ouro-instrumento cambial
+67933
+Movimentações no País em contas em reais de não residentes em contrapartida a operações de câmbio
+72612
+Assunção de dívidas
+99176
+Pagamento da dívida externa para aplicação em projetos ambientais
+99183
+Outras
+99200
+Encadeamento Proex
+99217
+Encadeamento BNDES-Exim
+99224
+Alienação de moeda estrangeira apreendida
+99303
+Obrigações vinculadas a operações interbancárias e ajustes de posição decorrentes de ganhos ou perdas em aplicações financeiras no exterior
+99509
+Depósitos no Banco Central do Brasil
+99671
+Grupo (Eliminado)
+  ANEXO VI À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+Códigos de classificação das informações complementares na operação de câmbio e na movimentação de conta de não residente classificadas com as finalidades dos Anexos IV ou V
+ Pagador ou recebedor no exterior
+Código
+Sem pagador ou recebedor no exterior
+90
+Residente no Brasil
+01
+Não residente no Brasil
+
+Pessoa física
+03
+Empresa não financeira
+05
+Empresa financeira
+
+Banco ou outro intermediário financeiro
+53
+Fundo de investimento
+56
+Seguradora ou resseguradora
+58
+Fundo de pensão
+59
+Outra empresa financeira
+60
+Instituição não governamental sem fins lucrativos
+71
+Governo estrangeiro
+78
+Organismo multilateral
+79
+ Vínculo do cliente com o pagador ou com o recebedor no exterior
+Código
+Operação entre empresas do mesmo grupo econômico
+40
+Demais
+50
+  ANEXO VII À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+Códigos de classificação da forma de entrega da moeda estrangeira na operação de câmbio
+ Forma de entrega da moeda estrangeira
+Código
+Conta de depósito em moeda estrangeira no País
+21
+Conta de depósito ou de pagamento do exportador em instituição no exterior
+23
+Em espécie e/ou cheques de viagem
+50
+Cartão pré-pago
+55
+Teletransmissão
+65
+Sem movimentação de valores
+91
+Demais
+99
+  ANEXO VIII À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+Códigos de classificação complementares para envio ao Banco Central do Brasil pela instituição autorizada a operar em câmbio
+ Campo
+Código
+Aval
+  Não requerido pela regulamentação
+N
+Pagador ou recebedor no exterior
+  Registro de operações no mercado interbancário
+66
+Classificação não requerida pela regulamentação
+67
+Vínculo do cliente com o pagador ou com o recebedor no exterior
+  Classificação não requerida pela regulamentação
+67
+Grupo
+  Ordens de pagamento em reais – terceiros
+60
+Classificação não requerida pela regulamentação
+67
+Sandbox regulatório
+88
+    ANEXO VIII À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+(Anexo VIII com redação dada, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+Códigos de classificação complementares para envio ao Banco Central do Brasil pela instituição autorizada a operar em câmbio
+Campo
+Código
+Finalidade
+  Ordem de pagamento em reais de interesse de terceiro inferior a R$1 milhão quando o remetente ou o destinatário final for residente
+ 72629
+Operação de câmbio com cliente não residente diferente do pagador ou recebedor não residente ou ordem de pagamento em reais de interesse de terceiro com remetente não residente diferente do destinatário final não residente
+   99406
+  Aval
+  Não requerido pela regulamentação
+N
+Pagador ou recebedor no exterior
+  Registro de operações no mercado interbancário
+66
+Classificação não requerida pela regulamentação
+67
+Vínculo do cliente com o pagador ou com o recebedor no exterior
+  Classificação não requerida pela regulamentação
+67
+Cliente
+  Classificação não requerida pela regulamentação
+67
+Grupo
+  Ordens de pagamento em reais – terceiros
+60
+Classificação não requerida pela regulamentação
+67
+Sandbox regulatório
+88
+  ANEXO IX À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+Códigos de classificação do cliente no caso de operação de câmbio e no caso de movimentação de conta de não residente quando sujeita à prestação de informação de que trata o Anexo II
+ Cliente
+Código
+Pessoas físicas
+  Domiciliadas no País
+00
+Domiciliadas no exterior
+02
+Empresas não financeiras
+  Públicas
+08
+Privadas
+09
+Empresas financeiras
+  Que aceitam depósito à vista
+  - Públicas
+52
+- Privadas
+55
+Demais empresas financeiras
+  - Fundos de investimento
+56
+- Seguradoras e resseguradoras
+58
+- Fundos de pensão
+59
+- Intermediários financeiros que não aceitam depósito à vista
+61
+- Auxiliares financeiros
+62
+Registro de operações no mercado interbancário
+66
+Instituições não governamentais sem fins lucrativos
+71
+Governo geral do Brasil
+78
+Banco Central do Brasil
+79
+Organismos multilaterais
+81
+Representações diplomáticas, consulares e outras entidades oficiais estrangeiras
+84
+Agentes e representantes de entidades no exterior
+87
+  ANEXO IX À RESOLUÇÃO BCB Nº 277, DE 31 DE DEZEMBRO DE 2022
+(Revogado, a partir de 1º/11/2023, pela Resolução BCB nº 337, de 22/8/2023.)
+
+Exposição de motivos (PDF 1794547kb)
+DOU
+Publicada no DOU de 31/12/2022, Seção 1, p. 1-9.
+Os textos não substituem a publicação no DOU e no Sisbacen.
+Assunto
+Regulamenta a Lei nº 14.286, de 29 de dezembro de 2021, em relação ao mercado de câmbio e ao ingresso no País e à saída do País de valores em reais e em moeda estrangeira, e dá outras providências.
+Normas Vinculadas
+Resolução CMN
+
+Resolução BCB
+
+Instrução Normativa BCB
+
+Circular
+
+Referências
+Atualizações

@@ -1,0 +1,358 @@
+Tipo: Resolucao BCB
+Número: 450.0
+Data: 15/1/2025
+URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=450
+================================================================================
+
+Resolução BCB n° 450 de 15/1/2025
+Imprimir
+RESOLUÇÃO BCB Nº 450, DE 15 DE JANEIRO DE 2025
+Dispõe sobre as atividades essenciais para o cumprimento da missão institucional do Banco Central do Brasil, que devem ser mantidas em funcionamento em caso de paralisação ou greve.
+O Comitê de Administração – Coad, em sessão realizada em 15 de janeiro de 2025, com base no art. 139, caput, inciso IV, alíneas “a” e “b”, item 1, do Regimento Interno do Banco Central do Brasil, na Lei nº 7.783, de 28 de junho de 1989, no Decreto nº 7.777, de 24 de julho de 2012, e nos Votos 11/2024–Coad, de 3 de outubro de 2024, e 1/2025–Coad, de 15 de janeiro de 2025,
+R E S O L V E :
+Art. 1º  Esta Resolução estabelece as atividades consideradas essenciais para o cumprimento da missão institucional do Banco Central do Brasil, definida pela Lei Complementar nº 179, de 24 de fevereiro de 2021, em caso de greve ou paralisação de servidores.
+Art. 2º  São consideradas atividades essenciais as que devem ser mantidas em funcionamento durante períodos de greve ou paralisação, listadas no Anexo I desta Resolução.
+Art. 3º  A manutenção das atividades de que trata o art. 1º será realizada conforme os planos de entrega, no âmbito do Programa de Gestão e Desempenho – PGD, acordados para o período de greve ou paralisação.
+§ 1º  Caberá aos chefes das unidades de execução, em acordo com os chefes de unidade, a realização dos ajustes dos planos de entrega vigentes, caso necessário, na ocasião da deflagração da greve ou paralisação, além da orientação aos demais gestores e servidores para que também promovam os ajustes necessários nos planos de trabalho individuais.
+§ 2º  O Departamento de Riscos Corporativos e Referências Operacionais – Deris dará o apoio necessário para garantir que as entregas das atividades essenciais incluídas no Plano de Continuidade de Negócios – PCN da unidade subsidiem os ajustes dos planos de entrega vigentes, citados no § 1º.
+§ 3º  Devem constar do PCN da unidade o quantitativo mínimo de servidores que deverão permanecer em exercício, as entregas previstas para cada atividade, bem como os procedimentos necessários à manutenção ou à realização de atividades específicas.
+Art. 4º  Em caso de greve ou paralisação, além das atividades essenciais constantes do Anexo I, as unidades responsáveis devem observar o dever legal de cumprir obrigações sujeitas a prazos específicos, cujo desatendimento possa acarretar repercussão gravosa para esta autarquia, para seus servidores ou para a coletividade.
+§ 1º  As obrigações mencionadas no caput incluem, mas não se limitam:
+I - ao cumprimento de ordens judiciais;
+II - ao atendimento a mandados de citação e intimação em processos judiciais e extrajudiciais; e
+III - à resposta aos pedidos de acesso a informações de que trata a Lei nº 12.527, de 18 de novembro de 2011.
+§ 2º  As unidades responsáveis devem identificar outras obrigações legais com prazos específicos não listadas no § 1º e garantir seu cumprimento durante o período de greve ou paralisação.
+Art. 5º  Cabe aos chefes de unidade zelar pela permanente atualização do rol de atividades essenciais e submeter eventuais mudanças no mencionado rol à aprovação do Comitê de Administração – Coad.
+Art. 6º  Fica o Diretor de Administração autorizado a editar os atos complementares necessários ao cumprimento do disposto nesta Resolução.
+Art. 7º  Fica revogada a Resolução BCB nº 430, de 12 de novembro de 2024.
+Art. 8º  Esta Resolução entra em vigor na data de sua publicação.
+GABRIEL MURICCA GALÍPOLO
+Presidente do Banco Central do Brasil
+
+ANEXO I
+ROL DAS ATIVIDADES ESSENCIAIS DO BANCO CENTRAL DO BRASIL
+DIORF
+DECEM
+Elaboração de parecer e decisão em atos de concentração
+Vigilância de arranjos de pagamentos exclusivamente nos casos de necessidade de adoção imediata de medidas pelo Banco Central do Brasil em caso de anormalidades no funcionamento de arranjos de pagamentos operados/instituídos por entidades privadas, nos casos de haver grave risco ao normal funcionamento do Sistema de Pagamentos Brasileiro – SPB
+Vigilância de infraestruturas do mercado financeiro – IMFs exclusivamente nos casos de necessidade de adoção imediata de medidas pelo Banco Central do Brasil em caso de anormalidades no funcionamento de IMFs operadas por entidades privadas, nos casos de haver grave risco ao normal funcionamento do SPB
+Zelar pelo bom funcionamento do Pix nos casos de haver grave risco ao normal funcionamento desse arranjo de pagamentos, a exemplo de ataque de leitura ao Diretório de Identificadores de Contas Transacionais – DICT
+Compor e finalizar processos referentes a autorização para a instituição de arranjos de pagamento
+Aprovação de convenções ou alterações em convenções de autorregulação entre entidades registradoras e depositárias centrais
+DEORF
+Compor e finalizar processos referentes à autorização para funcionamento sujeitos à autorização tácita
+Compor e finalizar processos referentes à posse e exercício de membro estatutário ou contratual sujeitos à autorização tácita, exceto no caso de eleitos para o conselho fiscal e para o comitê de auditoria, considerando o papel menos crítico que exercem
+Compor e finalizar processos referentes à alteração de controle societário, nos casos em que os pleitos envolvam elevado risco prudencial
+Compor e finalizar processos referentes à incorporação, fusão e cisão, nos casos em que os pleitos envolvam elevado risco prudencial
+Compor e finalizar processos referentes à mudança de objeto social, nos casos em que os pleitos envolvam elevado risco prudencial
+Compor e finalizar processos referentes à autorização para funcionamento de sistema de liquidação sujeitos à autorização tácita
+Compor e finalizar processos referentes à autorização para o exercício da atividade de depósito centralizado ou de registro de ativos financeiros, sujeitos à autorização tácita
+Compor e finalizar processos referentes à autorização para alterações no regulamento de sistemas do mercado financeiro que prevejam a inclusão de ativos financeiros no rol objeto de registro ou no rol objeto de depósito centralizado, sujeitos à autorização tácita
+DERAD
+Elaboração de subsídios para atuação dos Diretores do Banco Central do Brasil em organismos internacionais nos temas de competência do Derad
+Obrigações legais do Banco Central do Brasil decorrentes da Lei nº 6.024, de 13 de março de 1974, cuja não realização enseja risco de prejuízo ao Sistema Financeiro Nacional – SFN, ao Banco Central do Brasil ou a terceiros:
+i) planejar e instaurar regimes;
+ii) conceder autorizações requeridas por lei ao liquidante quando houver risco de prejuízo à condução do regime;
+iii) adotar providências com vistas ao encerramento de regimes em caso de situação falimentar, de decisão em assembleia de credores ou de projeto privado de encerramento de liquidação; e
+iv) instruir a indicação de responsável por regime de resolução
+Realizar os procedimentos relativos à gestão dos créditos do Banco Central do Brasil:
+i) receber do Depin e transferir para conta de depósitos judiciais específica os cupons semestrais de principal e juros de títulos que constituem garantia de operação com o extinto Fundo de Reservas Monetárias – FRM, sucedido pela União; e
+ii) conceder adiantamento de recursos a liquidandas para fazer face a despesas necessárias quando a liquidanda não dispuser de recursos próprios para esse fim e cuja falta pode prejudicar a continuidade do regime, com potencial risco de prejuízo ao Banco Central do Brasil, à massa ou a terceiro
+Manutenção dos sistemas críticos que suportam as atividades essenciais de competência da unidade
+  DIFIS
+DESIG
+Atualização do Data Warehouse – DW do Sistema de Informações de Créditos – SCR
+Sistema Câmbio ativo – sem suporte de dúvidas
+Monitoramento de liquidez – SMM atualizado, mas com verificação apenas de casos de insuficiência
+Divulgação dos parâmetros de risco de mercado para cálculo do capital requerido
+Produção da avaliação para o Comitê de Estabilidade Financeira – Comef
+Produzir o Relatório de Estabilidade Financeira – REF (capítulo 1)
+DESUP e DESUC
+Instauração de processos administrativos sancionadores e comunicações a outros órgãos relativamente a fatos sob risco de prescrição
+TODAS AS UNIDADES DA DIFIS
+Acompanhamento e tratamento de situações de anormalidade operacional relevante que tragam risco à entidade supervisionada ou à estabilidade do SFN
+Tratamento de incidentes tecnológicos em entidades supervisionadas
+Suporte aos sistemas tecnológicos sob responsabilidade da Difis para acompanhamento das situações de anormalidades operacionais e de tratamento de incidentes tecnológicos
+Processos de monitoramento e tratamento de sinalizações relativas a liquidez e capital, para fins de acompanhamento das situações de anormalidades operacionais
+Atendimento a demandas externas imprescindíveis provenientes de poderes constituídos
+Realização de inspeções pré-operacionais em entidades ou sistemas com relevância para o SFN e o SPB
+  DINOR
+DEROP
+Sistema Sicor
+Sistema Proagro
+DEROP, DENOR e DEREG
+Elaboração de normativos com prazo definido por força de leis, decretos ou decisões judiciais
+Atendimento de demandas externas provenientes de poderes constituídos (juízes, Ministério Público – MP, delegados, Congresso etc.)
+  DIPEC
+DEPEC
+Elaboração de material para o Comitê de Política Monetária – Copom
+Elaboração do Relatório de Inflação e apoio à elaboração da carta aberta e, a partir de 1º/1/2025, elaboração do Relatório de Política Monetária e apoio à elaboração de nota no Relatório de Política Monetária no caso de descumprimento da meta para a inflação
+Elaboração de material de apoio para o Comef
+Cálculo de componentes do Índice Nacional de Preços ao Consumidor Amplo – IPCA para manutenção do Sistema de Expectativas de Mercado do DSTAT
+DEPEP
+Geração das projeções e cenários e elaboração da apresentação para a reunião do Copom
+Publicação da ata da reunião do Copom
+Elaboração do Relatório de Inflação e, a partir de 1º/1/2025, do Relatório de Política Monetária
+Elaboração de carta aberta e, a partir de 1º/1/2025, elaboração de nota no Relatório de Política Monetária no caso de descumprimento da meta para a inflação
+Geração dos cenários de estresse macroeconômico utilizados pelo Desig para a realização de testes de estresse do SFN apresentados nas reuniões do Comef
+Elaboração da apresentação do Depep para as reuniões do Comef
+Elaboração das projeções de crédito, em conjunto com o Depec, para as reuniões do Comef
+DSTAT
+Manutenção dos sistemas de prestação de informações de capitais estrangeiros nos módulos investimento estrangeiro direto, crédito externo, portfólio e cadastro de não residentes – CDNR
+Instauração de Processos Administrativos Sancionadores – PAS antes do prazo prescricional
+Manutenção do sistema de Capitais Brasileiros no Exterior – CBE
+Manutenção do sistema do Censo de Capitais Estrangeiros no País – Censo
+Prestação de informações anual sobre dívida externa ao Banco Mundial, via formulário Debt Reporting System – DRS
+Relatório do Poder Executivo sobre o cumprimento das metas fiscais quadrimestrais
+Elaboração da regulamentação e atualização dos sistemas informatizados para a nova legislação cambial
+Elaboração e publicação do Relatório Focus e atualização das séries históricas
+Envio de informações sobre expectativas do IPCA para o Deban para precificação das debêntures incentivadas das Linhas Financeiras de Liquidez – LFL
+  DIPOM
+DEBAN
+Atividades gerais que demandam alçada
+Monitoramento do Sistema de Transferência de Reservas – STR, Sistema de Pagamentos Instantâneos – SPI e redesconto entre 6h00 e 19h00
+Monitoramento de compulsório, LFL
+Credenciamento de transações/Sistema de Registro de Demandas do Cidadão – RDR/Lei de Acesso à Informação – LAI/Judicial
+Apresentação para o Copom
+Autorização instituições operadoras de sistema do mercado financeiro – IOSMFs
+Projetos, formais ou não, que visem garantir o funcionamento dos processos/sistemas
+DEPIN
+Realizar leilões de câmbio
+Divulgar boletins Ptax
+Realizar operações de depósitos se os limites de caixa do custodiante forem atingidos
+Realizar operações de moedas ou de títulos para pagamentos essenciais
+Revisar o boletim de contabilidade da Ptax no prazo legal
+Realizar operações de rolagem de To-be-announced – TBA
+Realizar liquidação de eventuais leilões de câmbio
+Realizar manutenção de margem de TBA e repo
+Realizar despesas operacionais (custodiantes, Bank for International Settlements – BIS, conta corrente, clearer, etc.)
+Realizar recolhimento de tributos
+Realizar confirmação de operações
+Realizar confirmação de pós-trade
+Realizar movimentação de mensagens SWIFT para: movimentação de margem de TBA e repo; relacionadas às reservas internacionais; e para a liquidação de leilões de venda de câmbio.
+Realizar reconhecimento de recebimento de US$ decorrentes de leilões de compra de câmbio
+Efetivar liberação de mensagens SWIFT para pagamentos ao Fundo Monetário Internacional – FMI e outros acordos no âmbito do Derin
+Realizar pagamentos de moeda estrangeira que cursam via Sistema de Gerenciamento Financeiro – Sigef, tais como salários pagos no exterior, faturas da Bloomberg, SWIFT e outras
+Acompanhar saldos mínimos e saldos máximos em conta para indicar eventuais necessidades de contratação de operações pelas mesas de investimento do Depin
+Realizar captura de preços e mapas essenciais
+Responder demandas referentes a LAI/RDR dentro do prazo estipulado pela legislação
+Responder demandas de compliance que possam impactar a continuidade do relacionamento com contrapartes
+Atualizar o Sistema Integrado de Monitoramento com taxas de referência do custodiante para as operações de depósitos
+DEMAB
+Preparação de análises de mercado para suporte às atividades do Demab, incluindo decisões dos leilões
+Elaboração de subsídios para a Diretoria Colegiada (relatórios e apresentações, incluindo a apresentação do Demab no Copom)
+Cálculo e divulgação de diversas taxas referenciais: Taxa Básica Financeira – TBF, Taxa Referencial – TR, Taxa de Juros de Longo Prazo – TJLP, Taxa de Longo Prazo – TLP, Taxas Prefixadas, Taxa de Juros do Crédito Rural – TCR, Taxa Legal e demais taxas referenciais sob responsabilidade do departamento
+Manutenção do Sistema Especial de Liquidação e de Custódia – Selic em funcionamento
+Manutenção dos módulos de leilões de títulos, swap cambial, compromissadas e depósitos voluntários remunerados em funcionamento
+Manutenção do sistema de cálculo dos preços de lastro
+Manutenção do sistema de redesconto em funcionamento
+Manutenção da Plataforma Pre-matching do Selic em funcionamento
+Cálculo e divulgação tempestiva da Taxa Selic
+Execução automatizada dos pagamentos dos juros, resgates e amortizações dos títulos públicos federais e liberação dos depósitos voluntários
+Gerenciamento de rotinas offline do Selic
+Resolução tempestiva de incidentes
+Resolução tempestiva de problemas
+Gerenciamento da segurança da Tecnologia da Informação e Comunicação – TIC do Selic
+Gerenciamento das mudanças do Selic
+Gerenciamento da continuidade do Selic
+Execução dos comandos do administrador do Selic
+Execução dos bloqueios judiciais
+Execução de pagamentos extra Selic
+Execução dos cadastros do Selic considerados essenciais
+Divulgação de informes Selic considerados essenciais
+Monitoramento essencial dos participantes de mercado
+Atendimento essencial aos participantes do mercado
+Atendimento de RDR e LAI relativo ao Selic
+Atendimento a demandas judiciais relativas ao Selic
+Atendimento ao Tribunal de Contas da União – TCU em demandas relativas ao Selic
+Liquidação dos ajustes dos contratos de swap cambial do Banco Central do Brasil com a B3
+Pagamentos extra Selic, executados em casos excepcionais (tais como títulos de participantes suspensos e títulos penhorados)
+Retenção de tributos no prazo legal, nos casos de pagamentos do emissor para massas falidas e demais situações previstas em lei
+Apuração dos valores do Custo Selic, a ser ressarcido pelos participantes do sistema à Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais – Anbima, para posterior recolhimento do Imposto sobre Serviços – ISS no prazo legal
+Atendimento à requisição de informações do TCU
+Atendimento a demandas judiciais, incluindo trâmites para execução de bloqueios de títulos e outras demandas do Poder Judiciário, com repercussão no Selic
+Atendimento a demandas do cidadão feitas por meio da Lei de Acesso à Informação
+Cálculo dos preços unitários para pagamento de juros, resgate e amortização dos títulos depositados no Selic
+Avaliação do desempenho das instituições credenciadas do Tesouro Nacional para efeito de participação nas operações especiais (cumprimento de metas nos mercados primário e secundário de títulos públicos federais)
+Suporte de Tecnologia da Informação – TI às atividades essenciais do Demab, incluindo a carga dos bancos de dados durante a noite
+Divulgação dos preços unitários de NTN-B para a Divisão de Operações do Demab
+Apuração da taxa referencial do Tesouro
+Controle do limite financeiro para aquisição de títulos para a carteira do Banco Central do Brasil
+Publicação de comunicados das operações do Demab
+Execução das operações de política monetária: operações compromissadas, nivelamento, operações conjugadas e depósitos voluntários.
+Execução dos leilões de swap cambial do Banco Central do Brasil
+Cálculo e divulgação dos preços de lastro
+Execução dos leilões primários e de outras operações do Tesouro Nacional com títulos públicos federais (recompra do programa Tesouro Direto, emissões diretas e trocas).
+Execução de operações do extramercado, aplicações e resgates (principalmente no dia 1º, com rolagem de aplicações)
+Previsão da liquidez bancária
+  DIRAD
+DEAFI
+Execução e controle orçamentários
+Sustentação e controle dos sistemas de suporte ao negócio
+Execução e controle financeiros
+DEMAP
+Manutenção predial, especialmente para o datacenter
+Atendimento à Diretoria Colegiada (apoio logístico e viagens)
+Fiscalização técnica dos serviços de limpeza predial, transporte executivo, secretárias, serviço de audiovisual e copeiragem para a Diretoria Colegiada
+Envio/recebimento do protocolo físico
+Triagem manual do protocolo digital
+Publicação no Diário Oficial da União
+Prorrogações de contratos
+Licitações novas de serviços essenciais
+Pagamentos de contratos/taxas/faturas/boletos
+Fiscalização administrativa de contratos
+DESEG
+Realizar a segurança de áreas e instalações
+Realizar a segurança de operações do meio circulante
+Gerir emergências
+Realizar a segurança de pessoas
+Realizar a segurança da informação
+Gerir atividades de inteligência
+Gerir tecnologias de segurança
+Gerir compras e contratações
+Gerenciar alocação e movimentação da força de trabalho – FT
+Gerir o Orçamento Geral da União – OGU e o Orçamento de Receitas e Encargos das Operações de Autoridade Monetária – OAM
+Gerenciar viagens nacionais e internacionais
+MECIR
+Manutenção das casas fortes, inclusive com relação ao controle de acesso e abertura e realização de levantamentos nas periodicidades previstas em norma
+Operações de reforço de numerário ao custodiante
+Operações de retirada de numerário da Casa da Moeda do Brasil – CMB
+Remessas aéreas de numerário
+Atividades correlatas às atividades acima, como aquelas relativas à contratação de aeronaves e gestão de frota
+Elaboração de Autorizações de Pagamento – APs (e toda a cadeia anterior de ateste/recebimento) necessárias para os pagamentos de produtos/serviços dentro dos prazos contratuais/legais
+Manter os sistemas necessários para o gerenciamento do meio circulante (Sistema de administração do Meio Circulante – Sismecir) em funcionamento
+Operações de alívio de numerário
+Operações de saneamento (processamento e fragmentação)
+Recebimento de cédulas para acautelamento por ordem judicial
+Destruição de cédulas acauteladas dentro do prazo determinado por ordem judicial
+Recebimento de cédulas estrangeiras para destruição ou incorporação, solicitadas pela Justiça
+Devolução dentro do prazo determinado de cédulas estrangeiras custodiadas, solicitadas pela Justiça
+Incorporação de custódias às reservas internacionais, solicitadas pela Justiça
+Recebimento de malotes entregues por instituições financeiras contendo cédulas e moedas suspeitas de legitimidade
+Perícia de cédulas e moedas suspeitas de legitimidade encaminhadas pelas instituições financeiras e oriundas do processamento automatizado no Banco Central do Brasil
+Providências para a definição do OAM e para a aquisição de numerário
+DEPES
+Atendimento saúde e autorizações
+Gestão do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC
+Gestão/compromissos de contratos
+Orçamento e pagamentos
+Prestação de informações com prazo legal
+Atendimento pessoas
+Folha de pagamentos (nacional e local), aposentadorias e pensões
+Afastamento para organismo internacional, cessão, requisição, licença por motivo de afastamento do cônjuge ou companheiro, mandato eletivo, mandato classista, exoneração e vacância
+Gestão de concurso público
+Consultoria em normas relacionadas à área de gestão de pessoas, consultas ao Sistema de Pessoal Civil da Administração Federal – Sipec, consultas à PGBC
+Atendimento às demandas advindas da PGBC
+Prestação de informações com prazo legal, quando possa acarretar repercussão gravosa
+Suporte urgente de TI para as atividades essenciais do Depes
+Suporte ao desenvolvimento de sistemas
+Atendimento estratégico, para membros da Diretoria Colegiada ou para viabilizar atividade essencial
+Publicações e comunicações, para as atividades essenciais do Depes
+Gestão de contratos (fiscalização e pagamento da central de atendimento)
+Atendimento pessoas, relacionado a atividades essenciais do Depes e que possa acarretar repercussão gravosa quando não possível o atendimento pela equipe terceirizada
+Atendimento a servidores e a Agentes de Desenvolvimento e Treinamento – ADTs relativo a ações de aprendizagem, inclusive Programa de Pós-Graduação
+Indenizações relativas a ações de aprendizagem
+DEINF
+Atuação para correção das indisponibilidades dos sistemas e resposta a incidentes cibernéticos
+Mudanças inadiáveis para a garantia da segurança e disponibilidade da infraestrutura e dos serviços de TIC
+Gestão de contratações: manutenção do funcionamento dos contratos de serviço (atendimento ao usuário, suporte, operação, analítico, desenvolvimento e arquitetura)
+Fiscalização, acompanhamento e ordenação dos pagamentos dos serviços prestados por terceirizados. Renovações e novas contratações essenciais à disponibilidade dos serviços
+GERÊNCIAS ADMINISTRATIVAS
+Suprir numerário
+Prover infraestrutura de TIC
+Gerir execução financeira do Banco Central do Brasil
+Gerir compras e contratações
+Gerir serviços de infraestrutura
+Gerir Programa de Assistência à Saúde
+Gerenciar cadastros, pagamentos e benefícios de servidores
+Gerenciar viagens nacionais e internacionais
+Realizar a segurança de áreas e instalações
+Realizar a segurança de operações do meio circulante
+Gerir informação
+Gerenciar serviços de apoio
+  DIREC
+DEPEF
+Projeto Museu de Valores
+Programa Aprender Valor
+Organismos e fóruns internacionais (G-20, Organização para a Cooperação e Desenvolvimento Econômico – OCDE)
+DECON
+Ações de supervisão de prevenção à lavagem de dinheiro, ao financiamento do terrorismo e ao financiamento da proliferação de armas de destruição em massa – PLD/FTP e clientes
+Atendimento a demandas dos Poderes com prazos legais
+Instauração de processos administrativos sancionadores
+Comunicação de indícios de crime ao Ministério Público Federal – MPF, Conselho de Controle de Atividades Financeiras – Coaf e Secretaria Especial da Receita Federal do Brasil – RFB
+COMUN
+Streaming no Youtube
+Transmissão de eventos relacionados a temas considerados essenciais por outras áreas
+ASPAR
+Sabatina de indicados à Diretoria Colegiada
+Demandas com prazo constitucional
+Acompanhamento legislativo
+DEATI
+Atendimento telefônico (N1) / Gestão do contrato do fornecedor do serviço (equipe de atendentes contratada)
+Atendimento a demandas sobre CBE
+Atendimento a demandas dos tribunais superiores
+Atendimento a demandas judiciais e de outros órgãos (com prazo de cumprimento imediato)
+Atendimento a demandas do cidadão (LAI)
+Acompanhamento e monitoramento dos sistemas (RDR, Registrato, Sistema de Informações do Atendimento – Siate, Sistema Valores a Receber – SVR, Cadastro de Clientes do Sistema Financeiro Nacional – CCS, Sistema de Busca de Ativos do Poder Judiciário/Sistema de Acompanhamento Judicial – Sisbajud/SAJ, TopWeb, Cisco e Unidade de Resposta Audível – URA)
+OUVID
+Atendimento a demandas de ouvidoria
+Atendimento e monitoramento de demandas e de recursos registrados ao amparo da LAI
+  DIREX
+DERIN
+Monitorar o Sistema de Pagamentos em Moeda Local – SML
+Gerir os sistemas informatizados do SML
+Monitorar o Convênio de Pagamentos e Créditos Recíprocos/Sistema Computadorizado de Apoio ao CCR – CCR/Sicap
+Gerir os sistemas informatizados do CCR/Sicap
+Efetuar, em conformidade com o Manual de Procedimentos e Rotinas – MPR, pagamentos de atribuição do Derin ordenados por contrapartes internacionais ou pelo Banco Central do Brasil a contrapartes internacionais (FMI, New Development Bank – NDB, BIS, Centro de Estudos Monetários Latino-americanos – Cemla, e pagamentos de contratos atribuídos ao Derin)
+Operacionalizar acordos de swap internacionais previstos em tratados internacionais ou em casos de urgência resultante de desequilíbrio, real ou potencial, no balanço de pagamentos brasileiro
+Elaborar apresentação do Derin para as reuniões do Copom, restringindo-se a questões da conjuntura internacional que trazem riscos diretos ao cenário prospectivo de inflação no Brasil
+Elaboração de cenário base de projeções para o Produto Interno Bruto – PIB mundial e preços de commodities
+Elaboração da seção de economia internacional no capítulo 1 do Relatório de Inflação
+Elaboração da apresentação do Derin para as reuniões do Comef, restringindo-se à identificação e avaliação dos riscos à estabilidade financeira de origem externa
+Elaboração de cenário de estresse global para o teste de estresse do Comef
+Elaboração da seção de sistemas financeiros internacionais no capítulo 1 do Relatório de Estabilidade Financeira
+Elaboração da seção de sistemas financeiros internacionais na ata do Comef
+Manifestar-se sobre assuntos relativos a negociações de acordos de integração financeira e monetária internacional que, caso não sejam tomadas as devidas providências no prazo estipulado, possam causar prejuízos financeiros ao Banco Central do Brasil ou à União, ou possam trazer riscos de representação legal contra a União, o Banco Central do Brasil, a Diretoria Colegiada ou servidor do Banco Central do Brasil
+Representar o Banco Central do Brasil nas negociações de integração financeira e monetária internacional nos temas de competência exclusiva do Banco Central do Brasil
+Atender com a usual qualidade e tempestividade demandas e recomendações de órgãos de controle externo
+Demandas ao amparo da LAI
+Atendimento a determinações judiciais
+Coordenar representação do Banco Central do Brasil junto a governos, fóruns e organizações internacionais (FMI, G-20, Financial Stability Board – FSB, BIS, Cemla, Bancos Centrais de Países de Língua Portuguesa – BCPLP, Deutsche Gesellschaft für Internationale Zusammenarbeit – GIZ, bancos centrais, OCDE, BRICS, Banco Interamericano de Desenvolvimento – BID)
+DERIS
+Divulgar informações sobre a administração das reservas internacionais
+Coordenar gerenciamento integrado de riscos corporativos – ERM
+Gerenciar continuidade de negócio
+GERIP
+Agências de classificação de riscos
+Coordenar o relacionamento institucional com investidores internacionais de portfólio, embaixadas e agências de classificação de risco
+Preparação, organização e monitoramento das missões presenciais ou virtuais de avaliação soberana
+  PGBC
+  PGBC
+Distribuição de intimações e documentos dentro da PGBC, bem como expedição de ofícios cujo encaminhamento caiba à PGBC
+Manutenção do sistema BCJUR2 operante
+Providências para i) identificação de quitação de créditos e ii) retirada de restrições do devedor decorrentes da quitação (cancelamento da Certidão de Dívida Ativa – CDA, baixa de devedores do Cadastro Informativo de Créditos não Quitados do Setor Público Federal – Cadin e retirada de protesto)
+Providências relacionadas ao atendimento de prazos judiciais peremptórios ou cumprimento de ordens judiciais, tais como: i) elaboração e protocolo de petições; ii) realização de audiências e sustentações orais; iii) encaminhamento de ordens judiciais ao Deati e outros departamentos; iv) elaboração de cálculos judiciais e notas técnicas; v) realização de pagamentos; e vi) análise jurídica de força executória de decisão judicial
+Providências relacionadas à execução da consultoria jurídica vinculada a prazos peremptórios ou que possam causar prejuízo significativo ao Banco Central do Brasil, em caso de descumprimento (elaboração de manifestação consultiva, por exemplo)
+  PRESI
+SECRE/GAPRE
+Prover atendimento estratégico ao Presidente
+SECRE/SUCON
+Prover secretariado aos colegiados internos (Diretoria Colegiada, Comitê de Administração – Coad e Comitê de Governança, Riscos e Controles – GRC) e aos colegiados externos designados ao Banco Central do Brasil (Conselho Monetário Nacional – CMN, Comissão Técnica da Moeda e do Crédito – Comoc e Comitê de Regulação e Fiscalização dos Mercados Financeiro, de Capitais, de Seguros, de Previdência e Capitalização – Coremec) e prover auxílio administrativo ao Comef.
+Prestar consultoria e assessoramento à alta administração
+SECRE/ASSEC
+Preparar subsídios para compromissos importantes do presidente, no país ou no exterior, inclusive aqueles mandatórios por lei
+Realizar avaliação de riscos de votos encaminhados à deliberação da Diretoria Colegiada
+SECRE/SEGOV
+Realizar prestação de contas do presidente do Banco Central do Brasil
+Coordenar o Enfrentamento de Crise Financeira
+Gerir projetos e programas corporativos que envolvem ajustes críticos em atividades essenciais
+Secretariar reuniões do Comitê de Gestão Estratégica – CGE para apreciação de assuntos relacionados a atividades essenciais
+  Exposição de motivos (PDF 670818kb)
+DOU
+Os textos não substituem a publicação no DOU e no Sisbacen.
+Assunto
+Dispõe sobre as atividades essenciais para o cumprimento da missão institucional do Banco Central do Brasil, que devem ser mantidas em funcionamento em caso de paralisação ou greve.
+Normas Vinculadas
+Resolução BCB
+
+Referências
